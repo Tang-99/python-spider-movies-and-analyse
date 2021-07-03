@@ -1,0 +1,2246 @@
+{
+    "list": [
+        {
+            "avgShowViewDesc": "20",
+            "avgViewBoxDesc": "38",
+            "boxDesc": "311076",
+            "movieId": 346210,
+            "movieName": "八佰",
+            "releaseInfo": "2020-08-21"
+        },
+        {
+            "avgShowViewDesc": "19",
+            "avgViewBoxDesc": "38",
+            "boxDesc": "282972",
+            "movieId": 1328712,
+            "movieName": "我和我的家乡",
+            "releaseInfo": "2020-10-01"
+        },
+        {
+            "avgShowViewDesc": "19",
+            "avgViewBoxDesc": "39",
+            "boxDesc": "160296",
+            "movieId": 1211269,
+            "movieName": "姜子牙",
+            "releaseInfo": "2020-10-01"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "37",
+            "boxDesc": "112253",
+            "movieId": 1339160,
+            "movieName": "金刚川",
+            "releaseInfo": "2021-04-01"
+        },
+        {
+            "avgShowViewDesc": "11",
+            "avgViewBoxDesc": "38",
+            "boxDesc": "83648",
+            "movieId": 1217123,
+            "movieName": "夺冠",
+            "releaseInfo": "2020-09-25"
+        },
+        {
+            "avgShowViewDesc": "17",
+            "avgViewBoxDesc": "38",
+            "boxDesc": "60215",
+            "movieId": 1218142,
+            "movieName": "拆弹专家2",
+            "releaseInfo": "2020-12-24"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "37",
+            "boxDesc": "53802",
+            "movieId": 1240838,
+            "movieName": "除暴",
+            "releaseInfo": "2020-11-20"
+        },
+        {
+            "avgShowViewDesc": "7",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "51014",
+            "movieId": 1279731,
+            "movieName": "宠爱",
+            "releaseInfo": "2019-12-31"
+        },
+        {
+            "avgShowViewDesc": "16",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "50512",
+            "movieId": 489894,
+            "movieName": "我在时间尽头等你",
+            "releaseInfo": "2020-08-25"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "50132",
+            "movieId": 1218273,
+            "movieName": "误杀",
+            "releaseInfo": "2019-12-13"
+        },
+        {
+            "avgShowViewDesc": "10",
+            "avgViewBoxDesc": "38",
+            "boxDesc": "45623",
+            "movieId": 1297973,
+            "movieName": "信条",
+            "releaseInfo": "2020-09-04"
+        },
+        {
+            "avgShowViewDesc": "10",
+            "avgViewBoxDesc": "38",
+            "boxDesc": "43863",
+            "movieId": 461076,
+            "movieName": "紧急救援",
+            "releaseInfo": "2020-12-18"
+        },
+        {
+            "avgShowViewDesc": "7",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "41818",
+            "movieId": 1190122,
+            "movieName": "叶问4：完结篇",
+            "releaseInfo": "2019-12-20"
+        },
+        {
+            "avgShowViewDesc": "9",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "40281",
+            "movieId": 1325487,
+            "movieName": "沐浴之王",
+            "releaseInfo": "2020-12-11"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "33775",
+            "movieId": 247294,
+            "movieName": "疯狂原始人2",
+            "releaseInfo": "2020-11-27"
+        },
+        {
+            "avgShowViewDesc": "7",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "33460",
+            "movieId": 1282401,
+            "movieName": "如果声音不记得",
+            "releaseInfo": "2020-12-04"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "37",
+            "boxDesc": "31220",
+            "movieId": 1331267,
+            "movieName": "一点就到家",
+            "releaseInfo": "2020-10-04"
+        },
+        {
+            "avgShowViewDesc": "9",
+            "avgViewBoxDesc": "38",
+            "boxDesc": "29423",
+            "movieId": 1216053,
+            "movieName": "急先锋",
+            "releaseInfo": "2020-09-30"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "27807",
+            "movieId": 1210778,
+            "movieName": "花木兰",
+            "releaseInfo": "2020-09-11"
+        },
+        {
+            "avgShowViewDesc": "67",
+            "avgViewBoxDesc": "37",
+            "boxDesc": "23669",
+            "movieId": 1334342,
+            "movieName": "送你一朵小红花",
+            "releaseInfo": "2020-12-31"
+        },
+        {
+            "avgShowViewDesc": "48",
+            "avgViewBoxDesc": "37",
+            "boxDesc": "19483",
+            "movieId": 1300668,
+            "movieName": "温暖的抱抱",
+            "releaseInfo": "2020-12-31"
+        },
+        {
+            "avgShowViewDesc": "9",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "19196",
+            "movieId": 3606,
+            "movieName": "哈利·波特与魔法石",
+            "releaseInfo": "2002-01-26"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "36",
+            "boxDesc": "18511",
+            "movieId": 1277751,
+            "movieName": "赤狐书生",
+            "releaseInfo": "2020-12-04"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "39",
+            "boxDesc": "16217",
+            "movieId": 1207337,
+            "movieName": "神奇女侠1984",
+            "releaseInfo": "2020-12-18"
+        },
+        {
+            "avgShowViewDesc": "7",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "13601",
+            "movieId": 1203734,
+            "movieName": "多力特的奇幻冒险",
+            "releaseInfo": "2020-07-24"
+        },
+        {
+            "avgShowViewDesc": "5",
+            "avgViewBoxDesc": "37",
+            "boxDesc": "13129",
+            "movieId": 1228788,
+            "movieName": "一秒钟",
+            "releaseInfo": "2020-11-27"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "12524",
+            "movieId": 1285581,
+            "movieName": "数码宝贝：最后的进化",
+            "releaseInfo": "2020-10-30"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "12188",
+            "movieId": 78341,
+            "movieName": "星际穿越",
+            "releaseInfo": "2014-11-12"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "37",
+            "boxDesc": "11337",
+            "movieId": 1225854,
+            "movieName": "喜宝",
+            "releaseInfo": "2020-10-16"
+        },
+        {
+            "avgShowViewDesc": "32",
+            "avgViewBoxDesc": "74",
+            "boxDesc": "10607",
+            "movieId": 1284594,
+            "movieName": "我为你牺牲",
+            "releaseInfo": "2019-12-05"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "10340",
+            "movieId": 1214142,
+            "movieName": "变身特工",
+            "releaseInfo": "2020-01-03"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "8621",
+            "movieId": 342574,
+            "movieName": "地狱男爵：血皇后崛起",
+            "releaseInfo": "2020-11-09"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "8351",
+            "movieId": 1212263,
+            "movieName": "风平浪静",
+            "releaseInfo": "2020-11-06"
+        },
+        {
+            "avgShowViewDesc": "13",
+            "avgViewBoxDesc": "37",
+            "boxDesc": "7822",
+            "movieId": 553231,
+            "movieName": "心灵奇旅",
+            "releaseInfo": "2020-12-25"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "7795",
+            "movieId": 1358968,
+            "movieName": "汪汪队立大功之超能救援",
+            "releaseInfo": "2020-11-13"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "7086",
+            "movieId": 1284572,
+            "movieName": "1/2的魔法",
+            "releaseInfo": "2020-08-19"
+        },
+        {
+            "avgShowViewDesc": "5",
+            "avgViewBoxDesc": "39",
+            "boxDesc": "7007",
+            "movieId": 1203282,
+            "movieName": "热血合唱团",
+            "releaseInfo": "2020-11-13"
+        },
+        {
+            "avgShowViewDesc": "5",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "6908",
+            "movieId": 1243792,
+            "movieName": "1917",
+            "releaseInfo": "2020-08-07"
+        },
+        {
+            "avgShowViewDesc": "7",
+            "avgViewBoxDesc": "37",
+            "boxDesc": "6828",
+            "movieId": 1330790,
+            "movieName": "明天你是否依然爱我",
+            "releaseInfo": "2020-12-24"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "6213",
+            "movieId": 1298050,
+            "movieName": "哆啦A梦：大雄的新恐龙",
+            "releaseInfo": "2020-12-11"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "5978",
+            "movieId": 1303,
+            "movieName": "美丽人生",
+            "releaseInfo": "2020-01-03"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "5505",
+            "movieId": 1196202,
+            "movieName": "天使陷落",
+            "releaseInfo": "2019-12-31"
+        },
+        {
+            "avgShowViewDesc": "35",
+            "avgViewBoxDesc": "37",
+            "boxDesc": "5291",
+            "movieId": 1330566,
+            "movieName": "秀美人生",
+            "releaseInfo": "2020-09-06"
+        },
+        {
+            "avgShowViewDesc": "10",
+            "avgViewBoxDesc": "36",
+            "boxDesc": "5216",
+            "movieId": 1218159,
+            "movieName": "荞麦疯长",
+            "releaseInfo": "2020-08-25"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "4848",
+            "movieId": 1281095,
+            "movieName": "紫罗兰永恒花园 外传：永远与自动手记人偶",
+            "releaseInfo": "2020-01-10"
+        },
+        {
+            "avgShowViewDesc": "9",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "4762",
+            "movieId": 1230199,
+            "movieName": "小妇人",
+            "releaseInfo": "2020-08-25"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "4752",
+            "movieId": 1219754,
+            "movieName": "鲨海逃生",
+            "releaseInfo": "2020-01-10"
+        },
+        {
+            "avgShowViewDesc": "52",
+            "avgViewBoxDesc": "81",
+            "boxDesc": "4643",
+            "movieId": 1277939,
+            "movieName": "我和我的祖国",
+            "releaseInfo": "2019-09-30"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "36",
+            "boxDesc": "4567",
+            "movieId": 1228869,
+            "movieName": "半个喜剧",
+            "releaseInfo": "2019-12-20"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "28",
+            "boxDesc": "4554",
+            "movieId": 1167118,
+            "movieName": "喋血战士",
+            "releaseInfo": "2020-07-24"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "4415",
+            "movieId": 1220983,
+            "movieName": "动物特工局",
+            "releaseInfo": "2020-01-11"
+        },
+        {
+            "avgShowViewDesc": "5",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "4261",
+            "movieId": 1297911,
+            "movieName": "我的女友是机器人",
+            "releaseInfo": "2020-09-11"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "3803",
+            "movieId": 247949,
+            "movieName": "冰雪奇缘2",
+            "releaseInfo": "2019-11-22"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "3675",
+            "movieId": 1298938,
+            "movieName": "熊出没·狂野大陆",
+            "releaseInfo": "2021-02-12"
+        },
+        {
+            "avgShowViewDesc": "5",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "3514",
+            "movieId": 341890,
+            "movieName": "绝地战警：疾速追击",
+            "releaseInfo": "2020-08-14"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "3426",
+            "movieId": 1225578,
+            "movieName": "野性的呼唤",
+            "releaseInfo": "2020-11-13"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "3423",
+            "movieId": 1225758,
+            "movieName": "末日逃生",
+            "releaseInfo": "2020-11-20"
+        },
+        {
+            "avgShowViewDesc": "7",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "3379",
+            "movieId": 416,
+            "movieName": "盗梦空间",
+            "releaseInfo": "2010-09-01"
+        },
+        {
+            "avgShowViewDesc": "10",
+            "avgViewBoxDesc": "27",
+            "boxDesc": "3207",
+            "movieId": 1211270,
+            "movieName": "哪吒之魔童降世",
+            "releaseInfo": "2019-07-26"
+        },
+        {
+            "avgShowViewDesc": "13",
+            "avgViewBoxDesc": "37",
+            "boxDesc": "2956",
+            "movieId": 1346273,
+            "movieName": "2019阅兵盛典",
+            "releaseInfo": "2020-10-01"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "2948",
+            "movieId": 1247287,
+            "movieName": "死无对证",
+            "releaseInfo": "2020-09-18"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "2847",
+            "movieId": 1247810,
+            "movieName": "月半爱丽丝",
+            "releaseInfo": "2020-10-30"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "2560",
+            "movieId": 345809,
+            "movieName": "隐形人",
+            "releaseInfo": "2020-12-04"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "2537",
+            "movieId": 342485,
+            "movieName": "抵达之谜",
+            "releaseInfo": "2020-07-31"
+        },
+        {
+            "avgShowViewDesc": "21",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "2523",
+            "movieId": 1326724,
+            "movieName": "天道王",
+            "releaseInfo": "2020-10-15"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "2161",
+            "movieId": 1299144,
+            "movieName": "阿里巴巴与神灯",
+            "releaseInfo": "2020-09-05"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "36",
+            "boxDesc": "2113",
+            "movieId": 1216140,
+            "movieName": "热气球飞行家",
+            "releaseInfo": "2020-11-13"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "2088",
+            "movieId": 1298827,
+            "movieName": "亲爱的新年好",
+            "releaseInfo": "2019-12-31"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "1998",
+            "movieId": 1230685,
+            "movieName": "猎杀T34",
+            "releaseInfo": "2020-12-11"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "28",
+            "boxDesc": "1993",
+            "movieId": 345810,
+            "movieName": "刺猬索尼克",
+            "releaseInfo": "2020-07-31"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "37",
+            "boxDesc": "1905",
+            "movieId": 1368394,
+            "movieName": "保家卫国——抗美援朝光影纪实",
+            "releaseInfo": "2020-10-25"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "1802",
+            "movieId": 1277457,
+            "movieName": "麦路人",
+            "releaseInfo": "2020-09-17"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "1794",
+            "movieId": 1336825,
+            "movieName": "七号房的礼物",
+            "releaseInfo": "2020-10-15"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "21",
+            "boxDesc": "1771",
+            "movieId": 342068,
+            "movieName": "寻梦环游记",
+            "releaseInfo": "2017-11-24"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "46",
+            "boxDesc": "1733",
+            "movieId": 443387,
+            "movieName": "星球大战：天行者崛起",
+            "releaseInfo": "2019-12-20"
+        },
+        {
+            "avgShowViewDesc": "2",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "1711",
+            "movieId": 1201272,
+            "movieName": "为家而战",
+            "releaseInfo": "2020-01-10"
+        },
+        {
+            "avgShowViewDesc": "5",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "1704",
+            "movieId": 1215300,
+            "movieName": "假面饭店",
+            "releaseInfo": "2020-09-04"
+        },
+        {
+            "avgShowViewDesc": "2",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "1635",
+            "movieId": 1241850,
+            "movieName": "海兽之子",
+            "releaseInfo": "2020-11-20"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "1604",
+            "movieId": 1286015,
+            "movieName": "宝可梦：超梦的逆袭 进化",
+            "releaseInfo": "2020-12-04"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "1599",
+            "movieId": 1206381,
+            "movieName": "灭绝",
+            "releaseInfo": "2020-01-18"
+        },
+        {
+            "avgShowViewDesc": "33",
+            "avgViewBoxDesc": "48",
+            "boxDesc": "1594",
+            "movieId": 1261203,
+            "movieName": "解放·终局营救",
+            "releaseInfo": "2019-12-27"
+        },
+        {
+            "avgShowViewDesc": "7",
+            "avgViewBoxDesc": "38",
+            "boxDesc": "1567",
+            "movieId": 1225993,
+            "movieName": "雪人奇缘",
+            "releaseInfo": "2019-10-01"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "1565",
+            "movieId": 336813,
+            "movieName": "极速车王",
+            "releaseInfo": "2020-08-07"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "1510",
+            "movieId": 1217249,
+            "movieName": "网络凶铃",
+            "releaseInfo": "2020-10-30"
+        },
+        {
+            "avgShowViewDesc": "11",
+            "avgViewBoxDesc": "20",
+            "boxDesc": "1366",
+            "movieId": 1235560,
+            "movieName": "白蛇：缘起",
+            "releaseInfo": "2019-01-11"
+        },
+        {
+            "avgShowViewDesc": "53",
+            "avgViewBoxDesc": "41",
+            "boxDesc": "1263",
+            "movieId": 1301459,
+            "movieName": "海林都",
+            "releaseInfo": "2019-11-21"
+        },
+        {
+            "avgShowViewDesc": "10",
+            "avgViewBoxDesc": "19",
+            "boxDesc": "1193",
+            "movieId": 293,
+            "movieName": "风声",
+            "releaseInfo": "2009-09-29"
+        },
+        {
+            "avgShowViewDesc": "10",
+            "avgViewBoxDesc": "28",
+            "boxDesc": "1180",
+            "movieId": 1281368,
+            "movieName": "半条棉被",
+            "releaseInfo": "2020-09-04"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "1137",
+            "movieId": 1301444,
+            "movieName": "妙先生",
+            "releaseInfo": "2020-07-31"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "1133",
+            "movieId": 1218157,
+            "movieName": "乔乔的异想世界",
+            "releaseInfo": "2020-07-31"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "1133",
+            "movieId": 1263349,
+            "movieName": "萌宠流浪记",
+            "releaseInfo": "2020-09-18"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "998",
+            "movieId": 1205905,
+            "movieName": "未来的未来",
+            "releaseInfo": "2020-11-06"
+        },
+        {
+            "avgShowViewDesc": "9",
+            "avgViewBoxDesc": "19",
+            "boxDesc": "971",
+            "movieId": 246591,
+            "movieName": "大鱼海棠",
+            "releaseInfo": "2016-07-08"
+        },
+        {
+            "avgShowViewDesc": "17",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "959",
+            "movieId": 1302490,
+            "movieName": "赤焰",
+            "releaseInfo": "2020-09-25"
+        },
+        {
+            "avgShowViewDesc": "15",
+            "avgViewBoxDesc": "44",
+            "boxDesc": "933",
+            "movieId": 1302281,
+            "movieName": "奇妙王国之魔法奇缘",
+            "releaseInfo": "2020-12-26"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "17",
+            "boxDesc": "920",
+            "movieId": 158,
+            "movieName": "大话西游之大圣娶亲",
+            "releaseInfo": "2014-10-24"
+        },
+        {
+            "avgShowViewDesc": "2",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "906",
+            "movieId": 2212,
+            "movieName": "菊次郎的夏天",
+            "releaseInfo": "2020-09-25"
+        },
+        {
+            "avgShowViewDesc": "79",
+            "avgViewBoxDesc": "70",
+            "boxDesc": "883",
+            "movieId": 1230121,
+            "movieName": "中国机长",
+            "releaseInfo": "2019-09-30"
+        },
+        {
+            "avgShowViewDesc": "9",
+            "avgViewBoxDesc": "25",
+            "boxDesc": "859",
+            "movieId": 344264,
+            "movieName": "战狼2",
+            "releaseInfo": "2020-07-20"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "27",
+            "boxDesc": "840",
+            "movieId": 1301478,
+            "movieName": "北平会馆",
+            "releaseInfo": "2020-08-20"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "36",
+            "boxDesc": "834",
+            "movieId": 1297995,
+            "movieName": "只有芸知道",
+            "releaseInfo": "2019-12-20"
+        },
+        {
+            "avgShowViewDesc": "0",
+            "avgViewBoxDesc": "169",
+            "boxDesc": "832",
+            "movieId": 1217023,
+            "movieName": "唐人街探案3",
+            "releaseInfo": "2021-02-12"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "800",
+            "movieId": 1262874,
+            "movieName": "82号古宅",
+            "releaseInfo": "2020-10-16"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "38",
+            "boxDesc": "798",
+            "movieId": 1298859,
+            "movieName": "木兰：横空出世",
+            "releaseInfo": "2020-10-03"
+        },
+        {
+            "avgShowViewDesc": "13",
+            "avgViewBoxDesc": "60",
+            "boxDesc": "796",
+            "movieId": 1215889,
+            "movieName": "十三猎杀",
+            "releaseInfo": "2020-08-02"
+        },
+        {
+            "avgShowViewDesc": "13",
+            "avgViewBoxDesc": "48",
+            "boxDesc": "785",
+            "movieId": 1250733,
+            "movieName": "少女佳禾",
+            "releaseInfo": "2020-12-11"
+        },
+        {
+            "avgShowViewDesc": "5",
+            "avgViewBoxDesc": "37",
+            "boxDesc": "777",
+            "movieId": 1301793,
+            "movieName": "掬水月在手",
+            "releaseInfo": "2020-10-16"
+        },
+        {
+            "avgShowViewDesc": "112",
+            "avgViewBoxDesc": "66",
+            "boxDesc": "736",
+            "movieId": 1227611,
+            "movieName": "小小的愿望",
+            "releaseInfo": "2019-09-12"
+        },
+        {
+            "avgShowViewDesc": "93",
+            "avgViewBoxDesc": "72",
+            "boxDesc": "721",
+            "movieId": 1206836,
+            "movieName": "神探蒲松龄",
+            "releaseInfo": "2019-02-05"
+        },
+        {
+            "avgShowViewDesc": "2",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "718",
+            "movieId": 1283967,
+            "movieName": "蓝色防线",
+            "releaseInfo": "2020-09-18"
+        },
+        {
+            "avgShowViewDesc": "7",
+            "avgViewBoxDesc": "37",
+            "boxDesc": "715",
+            "movieId": 1303287,
+            "movieName": "棒！少年",
+            "releaseInfo": "2020-12-11"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "690",
+            "movieId": 1203109,
+            "movieName": "魔发精灵2",
+            "releaseInfo": "2020-08-21"
+        },
+        {
+            "avgShowViewDesc": "21",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "689",
+            "movieId": 343775,
+            "movieName": "跟世俗说再见",
+            "releaseInfo": "2020-09-25"
+        },
+        {
+            "avgShowViewDesc": "62",
+            "avgViewBoxDesc": "36",
+            "boxDesc": "674",
+            "movieId": 1250700,
+            "movieName": "攀登者",
+            "releaseInfo": "2019-09-30"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "673",
+            "movieId": 1237279,
+            "movieName": "特警队",
+            "releaseInfo": "2019-12-27"
+        },
+        {
+            "avgShowViewDesc": "83",
+            "avgViewBoxDesc": "72",
+            "boxDesc": "673",
+            "movieId": 1228776,
+            "movieName": "下一任：前任",
+            "releaseInfo": "2019-05-01"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "36",
+            "boxDesc": "668",
+            "movieId": 1242224,
+            "movieName": "气·球",
+            "releaseInfo": "2020-11-20"
+        },
+        {
+            "avgShowViewDesc": "21",
+            "avgViewBoxDesc": "79",
+            "boxDesc": "656",
+            "movieId": 1238837,
+            "movieName": "天·火",
+            "releaseInfo": "2019-12-12"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "655",
+            "movieId": 25348,
+            "movieName": "崖上的波妞",
+            "releaseInfo": "2020-12-31"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "626",
+            "movieId": 1213293,
+            "movieName": "小羊肖恩2：末日农场",
+            "releaseInfo": "2019-12-28"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "24",
+            "boxDesc": "625",
+            "movieId": 246082,
+            "movieName": "夏洛特烦恼",
+            "releaseInfo": "2015-09-30"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "582",
+            "movieId": 1217400,
+            "movieName": "飞奔去月球",
+            "releaseInfo": "2020-10-23"
+        },
+        {
+            "avgShowViewDesc": "5",
+            "avgViewBoxDesc": "37",
+            "boxDesc": "569",
+            "movieId": 418207,
+            "movieName": "理查德·朱维尔的哀歌",
+            "releaseInfo": "2020-01-10"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "21",
+            "boxDesc": "552",
+            "movieId": 6823,
+            "movieName": "大话西游之月光宝盒",
+            "releaseInfo": "2014-10-24"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "530",
+            "movieId": 1300031,
+            "movieName": "马永贞之闸北决",
+            "releaseInfo": "2020-11-13"
+        },
+        {
+            "avgShowViewDesc": "16",
+            "avgViewBoxDesc": "68",
+            "boxDesc": "528",
+            "movieId": 248906,
+            "movieName": "流浪地球",
+            "releaseInfo": "2019-02-05"
+        },
+        {
+            "avgShowViewDesc": "65",
+            "avgViewBoxDesc": "43",
+            "boxDesc": "523",
+            "movieId": 1329009,
+            "movieName": "太空熊猫英雄诞生",
+            "releaseInfo": "2020-12-19"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "516",
+            "movieId": 338059,
+            "movieName": "电力之战",
+            "releaseInfo": "2020-08-28"
+        },
+        {
+            "avgShowViewDesc": "18",
+            "avgViewBoxDesc": "75",
+            "boxDesc": "509",
+            "movieId": 1302405,
+            "movieName": "小公主艾薇拉与神秘王国2",
+            "releaseInfo": "2020-08-22"
+        },
+        {
+            "avgShowViewDesc": "33",
+            "avgViewBoxDesc": "44",
+            "boxDesc": "504",
+            "movieId": 1247112,
+            "movieName": "禹神传之王者少年",
+            "releaseInfo": "2020-08-15"
+        },
+        {
+            "avgShowViewDesc": "10",
+            "avgViewBoxDesc": "23",
+            "boxDesc": "492",
+            "movieId": 246063,
+            "movieName": "美人鱼",
+            "releaseInfo": "2016-02-08"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "27",
+            "boxDesc": "481",
+            "movieId": 1237925,
+            "movieName": "第一次的离别",
+            "releaseInfo": "2021-03-31"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "28",
+            "boxDesc": "472",
+            "movieId": 1299333,
+            "movieName": "鹭世界",
+            "releaseInfo": "2020-01-01"
+        },
+        {
+            "avgShowViewDesc": "77",
+            "avgViewBoxDesc": "88",
+            "boxDesc": "429",
+            "movieId": 1189325,
+            "movieName": "捉妖学院",
+            "releaseInfo": "2019-04-30"
+        },
+        {
+            "avgShowViewDesc": "5",
+            "avgViewBoxDesc": "19",
+            "boxDesc": "419",
+            "movieId": 246286,
+            "movieName": "疯狂动物城",
+            "releaseInfo": "2016-03-04"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "13",
+            "boxDesc": "418",
+            "movieId": 1357206,
+            "movieName": "流浪地球：飞跃2020特别版",
+            "releaseInfo": "2020-11-26"
+        },
+        {
+            "avgShowViewDesc": "24",
+            "avgViewBoxDesc": "37",
+            "boxDesc": "414",
+            "movieId": 1285669,
+            "movieName": "复合大作战",
+            "releaseInfo": "2020-10-26"
+        },
+        {
+            "avgShowViewDesc": "128",
+            "avgViewBoxDesc": "45",
+            "boxDesc": "410",
+            "movieId": 1301498,
+            "movieName": "盲舞",
+            "releaseInfo": "1970-01-01"
+        },
+        {
+            "avgShowViewDesc": "45",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "401",
+            "movieId": 1229565,
+            "movieName": "星溪的三次奇遇",
+            "releaseInfo": "2020-11-27"
+        },
+        {
+            "avgShowViewDesc": "2",
+            "avgViewBoxDesc": "28",
+            "boxDesc": "398",
+            "movieId": 342325,
+            "movieName": "闺蜜心窍",
+            "releaseInfo": "2020-11-27"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "398",
+            "movieId": 1262682,
+            "movieName": "辉夜大小姐想让我告白",
+            "releaseInfo": "2020-09-11"
+        },
+        {
+            "avgShowViewDesc": "21",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "391",
+            "movieId": 1291012,
+            "movieName": "为爱重生",
+            "releaseInfo": "2019-07-25"
+        },
+        {
+            "avgShowViewDesc": "2",
+            "avgViewBoxDesc": "40",
+            "boxDesc": "386",
+            "movieId": 1336822,
+            "movieName": "再见吧！少年",
+            "releaseInfo": "2020-10-05"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "41",
+            "boxDesc": "382",
+            "movieId": 1255359,
+            "movieName": "别告诉她",
+            "releaseInfo": "2020-01-10"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "21",
+            "boxDesc": "379",
+            "movieId": 899,
+            "movieName": "当幸福来敲门",
+            "releaseInfo": "2008-01-17"
+        },
+        {
+            "avgShowViewDesc": "10",
+            "avgViewBoxDesc": "50",
+            "boxDesc": "368",
+            "movieId": 1298853,
+            "movieName": "致敬英雄",
+            "releaseInfo": "2020-01-10"
+        },
+        {
+            "avgShowViewDesc": "21",
+            "avgViewBoxDesc": "45",
+            "boxDesc": "352",
+            "movieId": 1338838,
+            "movieName": "信念一生",
+            "releaseInfo": "2020-08-19"
+        },
+        {
+            "avgShowViewDesc": "65",
+            "avgViewBoxDesc": "63",
+            "boxDesc": "351",
+            "movieId": 1243361,
+            "movieName": "烈火英雄",
+            "releaseInfo": "2019-08-01"
+        },
+        {
+            "avgShowViewDesc": "1",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "338",
+            "movieId": 1280615,
+            "movieName": "光",
+            "releaseInfo": "2020-11-06"
+        },
+        {
+            "avgShowViewDesc": "23",
+            "avgViewBoxDesc": "40",
+            "boxDesc": "334",
+            "movieId": 1367512,
+            "movieName": "守望相思树",
+            "releaseInfo": "2020-11-20"
+        },
+        {
+            "avgShowViewDesc": "1",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "323",
+            "movieId": 1219866,
+            "movieName": "通往春天的列车",
+            "releaseInfo": "2020-09-17"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "22",
+            "boxDesc": "322",
+            "movieId": 1208942,
+            "movieName": "超时空同居",
+            "releaseInfo": "2018-05-18"
+        },
+        {
+            "avgShowViewDesc": "48",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "322",
+            "movieId": 1239281,
+            "movieName": "港珠澳大桥",
+            "releaseInfo": "2019-05-01"
+        },
+        {
+            "avgShowViewDesc": "44",
+            "avgViewBoxDesc": "76",
+            "boxDesc": "311",
+            "movieId": 1242130,
+            "movieName": "古田军号",
+            "releaseInfo": "2019-08-01"
+        },
+        {
+            "avgShowViewDesc": "23",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "308",
+            "movieId": 1359278,
+            "movieName": "骄傲的少年",
+            "releaseInfo": "2020-09-10"
+        },
+        {
+            "avgShowViewDesc": "76",
+            "avgViewBoxDesc": "39",
+            "boxDesc": "301",
+            "movieId": 1298964,
+            "movieName": "芙蓉渡",
+            "releaseInfo": "2020-09-11"
+        },
+        {
+            "avgShowViewDesc": "24",
+            "avgViewBoxDesc": "117",
+            "boxDesc": "278",
+            "movieId": 1301018,
+            "movieName": "变化中的中国·生活因你而火热",
+            "releaseInfo": "2019-11-22"
+        },
+        {
+            "avgShowViewDesc": "1",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "275",
+            "movieId": 1215685,
+            "movieName": "呼吸",
+            "releaseInfo": "2020-10-23"
+        },
+        {
+            "avgShowViewDesc": "75",
+            "avgViewBoxDesc": "59",
+            "boxDesc": "270",
+            "movieId": 1215114,
+            "movieName": "廉政风云",
+            "releaseInfo": "2019-02-05"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "39",
+            "boxDesc": "257",
+            "movieId": 345397,
+            "movieName": "催眠·裁决",
+            "releaseInfo": "2019-10-25"
+        },
+        {
+            "avgShowViewDesc": "88",
+            "avgViewBoxDesc": "71",
+            "boxDesc": "255",
+            "movieId": 1301695,
+            "movieName": "城市的星空",
+            "releaseInfo": "2019-12-14"
+        },
+        {
+            "avgShowViewDesc": "31",
+            "avgViewBoxDesc": "47",
+            "boxDesc": "242",
+            "movieId": 1308485,
+            "movieName": "城市梦",
+            "releaseInfo": "2020-08-28"
+        },
+        {
+            "avgShowViewDesc": "1",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "241",
+            "movieId": 1243732,
+            "movieName": "城市猎人",
+            "releaseInfo": "2020-12-11"
+        },
+        {
+            "avgShowViewDesc": "23",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "234",
+            "movieId": 1300676,
+            "movieName": "大河向东流之沁源故事",
+            "releaseInfo": "2021-04-16"
+        },
+        {
+            "avgShowViewDesc": "2",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "233",
+            "movieId": 1368406,
+            "movieName": "最可爱的人",
+            "releaseInfo": "2020-10-23"
+        },
+        {
+            "avgShowViewDesc": "68",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "216",
+            "movieId": 402719,
+            "movieName": "难忘的岁月",
+            "releaseInfo": "2010-12-31"
+        },
+        {
+            "avgShowViewDesc": "18",
+            "avgViewBoxDesc": "63",
+            "boxDesc": "215",
+            "movieId": 1218029,
+            "movieName": "少年的你",
+            "releaseInfo": "2019-10-25"
+        },
+        {
+            "avgShowViewDesc": "2",
+            "avgViewBoxDesc": "36",
+            "boxDesc": "213",
+            "movieId": 1254576,
+            "movieName": "重生小确幸",
+            "releaseInfo": "2020-10-31"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "19",
+            "boxDesc": "209",
+            "movieId": 1218727,
+            "movieName": "何以为家",
+            "releaseInfo": "2019-04-29"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "27",
+            "boxDesc": "200",
+            "movieId": 1298876,
+            "movieName": "龙神之子",
+            "releaseInfo": "2020-10-31"
+        },
+        {
+            "avgShowViewDesc": "76",
+            "avgViewBoxDesc": "69",
+            "boxDesc": "200",
+            "movieId": 1218091,
+            "movieName": "飞驰人生",
+            "releaseInfo": "2019-02-05"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "200",
+            "movieId": 1240799,
+            "movieName": "达芬奇大冒险：拯救蒙娜丽莎",
+            "releaseInfo": "2020-10-16"
+        },
+        {
+            "avgShowViewDesc": "41",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "199",
+            "movieId": 1302100,
+            "movieName": "刑场上的婚礼",
+            "releaseInfo": "2019-12-11"
+        },
+        {
+            "avgShowViewDesc": "1",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "198",
+            "movieId": 1207303,
+            "movieName": "邻里美好的一天",
+            "releaseInfo": "2020-09-18"
+        },
+        {
+            "avgShowViewDesc": "2",
+            "avgViewBoxDesc": "27",
+            "boxDesc": "194",
+            "movieId": 346178,
+            "movieName": "巨齿鲨",
+            "releaseInfo": "2018-08-10"
+        },
+        {
+            "avgShowViewDesc": "10",
+            "avgViewBoxDesc": "48",
+            "boxDesc": "193",
+            "movieId": 1263827,
+            "movieName": "魔镜奇缘3",
+            "releaseInfo": "2019-12-14"
+        },
+        {
+            "avgShowViewDesc": "15",
+            "avgViewBoxDesc": "43",
+            "boxDesc": "192",
+            "movieId": 1277527,
+            "movieName": "那时风华",
+            "releaseInfo": "2019-12-10"
+        },
+        {
+            "avgShowViewDesc": "2",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "188",
+            "movieId": 1302015,
+            "movieName": "士兵顺溜：兵王争锋",
+            "releaseInfo": "2020-01-17"
+        },
+        {
+            "avgShowViewDesc": "5",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "187",
+            "movieId": 1337937,
+            "movieName": "新愚公移山",
+            "releaseInfo": "2020-09-10"
+        },
+        {
+            "avgShowViewDesc": "24",
+            "avgViewBoxDesc": "57",
+            "boxDesc": "186",
+            "movieId": 487449,
+            "movieName": "心灵的阳光",
+            "releaseInfo": "2011-12-31"
+        },
+        {
+            "avgShowViewDesc": "62",
+            "avgViewBoxDesc": "58",
+            "boxDesc": "184",
+            "movieId": 1260459,
+            "movieName": "赛尔号大电影7：疯狂机器城",
+            "releaseInfo": "2021-01-30"
+        },
+        {
+            "avgShowViewDesc": "12",
+            "avgViewBoxDesc": "19",
+            "boxDesc": "182",
+            "movieId": 78068,
+            "movieName": "中国合伙人",
+            "releaseInfo": "2013-05-17"
+        },
+        {
+            "avgShowViewDesc": "120",
+            "avgViewBoxDesc": "60",
+            "boxDesc": "175",
+            "movieId": 345797,
+            "movieName": "猪八戒传说",
+            "releaseInfo": "2019-07-19"
+        },
+        {
+            "avgShowViewDesc": "2",
+            "avgViewBoxDesc": "27",
+            "boxDesc": "164",
+            "movieId": 1284957,
+            "movieName": "九条命",
+            "releaseInfo": "2020-11-13"
+        },
+        {
+            "avgShowViewDesc": "1",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "154",
+            "movieId": 1266089,
+            "movieName": "翱翔雄心",
+            "releaseInfo": "2020-11-13"
+        },
+        {
+            "avgShowViewDesc": "18",
+            "avgViewBoxDesc": "59",
+            "boxDesc": "153",
+            "movieId": 1201124,
+            "movieName": "食神归来",
+            "releaseInfo": "2020-09-25"
+        },
+        {
+            "avgShowViewDesc": "9",
+            "avgViewBoxDesc": "36",
+            "boxDesc": "153",
+            "movieId": 1238922,
+            "movieName": "无“疯”也起浪",
+            "releaseInfo": "2020-08-28"
+        },
+        {
+            "avgShowViewDesc": "0",
+            "avgViewBoxDesc": "168",
+            "boxDesc": "152",
+            "movieId": 1250696,
+            "movieName": "囧妈",
+            "releaseInfo": "2020-01-25"
+        },
+        {
+            "avgShowViewDesc": "70",
+            "avgViewBoxDesc": "86",
+            "boxDesc": "151",
+            "movieId": 1218141,
+            "movieName": "扫毒2天地对决",
+            "releaseInfo": "2019-07-05"
+        },
+        {
+            "avgShowViewDesc": "1",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "151",
+            "movieId": 1282811,
+            "movieName": "婚前故事",
+            "releaseInfo": "2020-11-13"
+        },
+        {
+            "avgShowViewDesc": "21",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "151",
+            "movieId": 1299627,
+            "movieName": "白云之下",
+            "releaseInfo": "2020-07-31"
+        },
+        {
+            "avgShowViewDesc": "18",
+            "avgViewBoxDesc": "15",
+            "boxDesc": "145",
+            "movieId": 560411,
+            "movieName": "阿凡提新传：种金记",
+            "releaseInfo": "2018-10-01"
+        },
+        {
+            "avgShowViewDesc": "10",
+            "avgViewBoxDesc": "995",
+            "boxDesc": "145",
+            "movieId": 1282915,
+            "movieName": "寻找兰小草",
+            "releaseInfo": "2019-08-09"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "24",
+            "boxDesc": "144",
+            "movieId": 246083,
+            "movieName": "捉妖记",
+            "releaseInfo": "2015-07-16"
+        },
+        {
+            "avgShowViewDesc": "69",
+            "avgViewBoxDesc": "69",
+            "boxDesc": "144",
+            "movieId": 344869,
+            "movieName": "疯狂的外星人",
+            "releaseInfo": "2019-02-05"
+        },
+        {
+            "avgShowViewDesc": "2",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "140",
+            "movieId": 1307132,
+            "movieName": "未知嫌疑人",
+            "releaseInfo": "2020-09-10"
+        },
+        {
+            "avgShowViewDesc": "5",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "140",
+            "movieId": 367835,
+            "movieName": "麦兜·饭宝奇兵",
+            "releaseInfo": "2020-11-21"
+        },
+        {
+            "avgShowViewDesc": "19",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "139",
+            "movieId": 1301580,
+            "movieName": "铁血阳泉",
+            "releaseInfo": "2019-12-19"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "27",
+            "boxDesc": "134",
+            "movieId": 346409,
+            "movieName": "尼斯大冒险",
+            "releaseInfo": "2019-12-28"
+        },
+        {
+            "avgShowViewDesc": "7",
+            "avgViewBoxDesc": "870",
+            "boxDesc": "128",
+            "movieId": 1263192,
+            "movieName": "周军的行走",
+            "releaseInfo": "2019-12-26"
+        },
+        {
+            "avgShowViewDesc": "33",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "128",
+            "movieId": 1353877,
+            "movieName": "吕建江",
+            "releaseInfo": "2020-11-27"
+        },
+        {
+            "avgShowViewDesc": "28",
+            "avgViewBoxDesc": "47",
+            "boxDesc": "127",
+            "movieId": 1360143,
+            "movieName": "远方有多远",
+            "releaseInfo": "2020-09-18"
+        },
+        {
+            "avgShowViewDesc": "17",
+            "avgViewBoxDesc": "44",
+            "boxDesc": "126",
+            "movieId": 336934,
+            "movieName": "横财局中局",
+            "releaseInfo": "2019-12-28"
+        },
+        {
+            "avgShowViewDesc": "88",
+            "avgViewBoxDesc": "171",
+            "boxDesc": "126",
+            "movieId": 1212192,
+            "movieName": "差等生乔曦",
+            "releaseInfo": "2019-01-20"
+        },
+        {
+            "avgShowViewDesc": "149",
+            "avgViewBoxDesc": "100",
+            "boxDesc": "125",
+            "movieId": 1229688,
+            "movieName": "看不见的小孩",
+            "releaseInfo": "2019-07-19"
+        },
+        {
+            "avgShowViewDesc": "101",
+            "avgViewBoxDesc": "59",
+            "boxDesc": "125",
+            "movieId": 1240752,
+            "movieName": "小Q",
+            "releaseInfo": "2019-09-20"
+        },
+        {
+            "avgShowViewDesc": "108",
+            "avgViewBoxDesc": "144",
+            "boxDesc": "119",
+            "movieId": 319904,
+            "movieName": "盛世秧歌",
+            "releaseInfo": "2007-12-31"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "118",
+            "movieId": 1286126,
+            "movieName": "守望人",
+            "releaseInfo": "2020-01-15"
+        },
+        {
+            "avgShowViewDesc": "89",
+            "avgViewBoxDesc": "54",
+            "boxDesc": "118",
+            "movieId": 346640,
+            "movieName": "长安道",
+            "releaseInfo": "2019-11-15"
+        },
+        {
+            "avgShowViewDesc": "7",
+            "avgViewBoxDesc": "43",
+            "boxDesc": "117",
+            "movieId": 1258163,
+            "movieName": "利刃出鞘",
+            "releaseInfo": "2019-11-29"
+        },
+        {
+            "avgShowViewDesc": "52",
+            "avgViewBoxDesc": "66",
+            "boxDesc": "116",
+            "movieId": 346690,
+            "movieName": "你是凶手",
+            "releaseInfo": "2019-11-22"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "114",
+            "movieId": 78324,
+            "movieName": "北京爱情故事",
+            "releaseInfo": "2014-02-14"
+        },
+        {
+            "avgShowViewDesc": "47",
+            "avgViewBoxDesc": "73",
+            "boxDesc": "113",
+            "movieId": 248172,
+            "movieName": "复仇者联盟4：终局之战",
+            "releaseInfo": "2019-04-24"
+        },
+        {
+            "avgShowViewDesc": "21",
+            "avgViewBoxDesc": "44",
+            "boxDesc": "112",
+            "movieId": 1331606,
+            "movieName": "天边加油站",
+            "releaseInfo": "2020-11-16"
+        },
+        {
+            "avgShowViewDesc": "2",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "109",
+            "movieId": 1218474,
+            "movieName": "狐踪谍影",
+            "releaseInfo": "2020-01-10"
+        },
+        {
+            "avgShowViewDesc": "1",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "108",
+            "movieId": 1280000,
+            "movieName": "真假美猴王之大圣无双",
+            "releaseInfo": "2020-12-05"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "26",
+            "boxDesc": "107",
+            "movieId": 1254277,
+            "movieName": "一条狗的使命2",
+            "releaseInfo": "2019-05-17"
+        },
+        {
+            "avgShowViewDesc": "24",
+            "avgViewBoxDesc": "55",
+            "boxDesc": "106",
+            "movieId": 1308581,
+            "movieName": "旦后",
+            "releaseInfo": "2020-10-24"
+        },
+        {
+            "avgShowViewDesc": "13",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "104",
+            "movieId": 1300533,
+            "movieName": "应承",
+            "releaseInfo": "2020-11-26"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "41",
+            "boxDesc": "103",
+            "movieId": 1203825,
+            "movieName": "唐顿庄园",
+            "releaseInfo": "2019-12-13"
+        },
+        {
+            "avgShowViewDesc": "21",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "102",
+            "movieId": 1334441,
+            "movieName": "天下无毒",
+            "releaseInfo": "2020-08-14"
+        },
+        {
+            "avgShowViewDesc": "2",
+            "avgViewBoxDesc": "36",
+            "boxDesc": "101",
+            "movieId": 1300301,
+            "movieName": "日光之下",
+            "releaseInfo": "2020-11-27"
+        },
+        {
+            "avgShowViewDesc": "24",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "100",
+            "movieId": 1353437,
+            "movieName": "36号护卫车",
+            "releaseInfo": "2020-12-04"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "65",
+            "boxDesc": "99",
+            "movieId": 1302042,
+            "movieName": "那人那事",
+            "releaseInfo": "2020-01-11"
+        },
+        {
+            "avgShowViewDesc": "7",
+            "avgViewBoxDesc": "28",
+            "boxDesc": "95",
+            "movieId": 1239962,
+            "movieName": "梅艳芳菲",
+            "releaseInfo": "2020-08-25"
+        },
+        {
+            "avgShowViewDesc": "1",
+            "avgViewBoxDesc": "28",
+            "boxDesc": "93",
+            "movieId": 1301296,
+            "movieName": "野猪",
+            "releaseInfo": "2020-01-10"
+        },
+        {
+            "avgShowViewDesc": "9",
+            "avgViewBoxDesc": "37",
+            "boxDesc": "92",
+            "movieId": 1302136,
+            "movieName": "追梦险途",
+            "releaseInfo": "2020-08-19"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "91",
+            "movieId": 1250729,
+            "movieName": "漫长的告别",
+            "releaseInfo": "2020-08-28"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "28",
+            "boxDesc": "91",
+            "movieId": 1321157,
+            "movieName": "封口者",
+            "releaseInfo": "2020-12-23"
+        },
+        {
+            "avgShowViewDesc": "2",
+            "avgViewBoxDesc": "27",
+            "boxDesc": "90",
+            "movieId": 1212608,
+            "movieName": "站住！小偷",
+            "releaseInfo": "2020-03-15"
+        },
+        {
+            "avgShowViewDesc": "5",
+            "avgViewBoxDesc": "41",
+            "boxDesc": "89",
+            "movieId": 1203046,
+            "movieName": "坂本龙一：终曲",
+            "releaseInfo": "2019-12-16"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "20",
+            "boxDesc": "89",
+            "movieId": 79232,
+            "movieName": "超能陆战队",
+            "releaseInfo": "2015-02-28"
+        },
+        {
+            "avgShowViewDesc": "1",
+            "avgViewBoxDesc": "27",
+            "boxDesc": "87",
+            "movieId": 1244277,
+            "movieName": "白狮奇缘",
+            "releaseInfo": "2020-07-31"
+        },
+        {
+            "avgShowViewDesc": "1",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "85",
+            "movieId": 1215767,
+            "movieName": "极寒风暴",
+            "releaseInfo": "2020-09-11"
+        },
+        {
+            "avgShowViewDesc": "17",
+            "avgViewBoxDesc": "44",
+            "boxDesc": "84",
+            "movieId": 345161,
+            "movieName": "风雨日昇昌",
+            "releaseInfo": "2020-09-29"
+        },
+        {
+            "avgShowViewDesc": "13",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "84",
+            "movieId": 1263828,
+            "movieName": "天池水怪",
+            "releaseInfo": "2019-11-29"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "82",
+            "movieId": 1365580,
+            "movieName": "美丽人生",
+            "releaseInfo": "1970-01-01"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "19",
+            "boxDesc": "82",
+            "movieId": 342858,
+            "movieName": "一条狗的使命",
+            "releaseInfo": "2017-03-03"
+        },
+        {
+            "avgShowViewDesc": "14",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "79",
+            "movieId": 1359764,
+            "movieName": "扑蝶",
+            "releaseInfo": "2021-02-16"
+        },
+        {
+            "avgShowViewDesc": "1",
+            "avgViewBoxDesc": "27",
+            "boxDesc": "77",
+            "movieId": 1217236,
+            "movieName": "悲伤逆流成河",
+            "releaseInfo": "2018-09-21"
+        },
+        {
+            "avgShowViewDesc": "95",
+            "avgViewBoxDesc": "75",
+            "boxDesc": "77",
+            "movieId": 1211698,
+            "movieName": "碟仙",
+            "releaseInfo": "2019-06-21"
+        },
+        {
+            "avgShowViewDesc": "1",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "75",
+            "movieId": 1290049,
+            "movieName": "一日成交",
+            "releaseInfo": "2020-11-11"
+        },
+        {
+            "avgShowViewDesc": "12",
+            "avgViewBoxDesc": "27",
+            "boxDesc": "73",
+            "movieId": 1283507,
+            "movieName": "半条被子",
+            "releaseInfo": "2020-09-05"
+        },
+        {
+            "avgShowViewDesc": "1",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "72",
+            "movieId": 337705,
+            "movieName": "初恋这首情歌",
+            "releaseInfo": "2020-08-07"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "38",
+            "boxDesc": "69",
+            "movieId": 1217125,
+            "movieName": "勇敢者游戏2：再战巅峰",
+            "releaseInfo": "2019-12-06"
+        },
+        {
+            "avgShowViewDesc": "54",
+            "avgViewBoxDesc": "74",
+            "boxDesc": "68",
+            "movieId": 1250610,
+            "movieName": "乡村青年",
+            "releaseInfo": "2018-12-13"
+        },
+        {
+            "avgShowViewDesc": "9",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "68",
+            "movieId": 1302288,
+            "movieName": "妈妈不再摇滚",
+            "releaseInfo": "2020-11-26"
+        },
+        {
+            "avgShowViewDesc": "2",
+            "avgViewBoxDesc": "43",
+            "boxDesc": "68",
+            "movieId": 1355963,
+            "movieName": "橙妹儿的时代",
+            "releaseInfo": "2020-11-20"
+        },
+        {
+            "avgShowViewDesc": "50",
+            "avgViewBoxDesc": "66",
+            "boxDesc": "68",
+            "movieId": 1216383,
+            "movieName": "比悲伤更悲伤的故事",
+            "releaseInfo": "2019-03-14"
+        },
+        {
+            "avgShowViewDesc": "10",
+            "avgViewBoxDesc": "38",
+            "boxDesc": "67",
+            "movieId": 1214493,
+            "movieName": "大傩·董春女",
+            "releaseInfo": "2020-12-04"
+        },
+        {
+            "avgShowViewDesc": "9",
+            "avgViewBoxDesc": "38",
+            "boxDesc": "67",
+            "movieId": 1301196,
+            "movieName": "朝颜",
+            "releaseInfo": "2020-09-22"
+        },
+        {
+            "avgShowViewDesc": "83",
+            "avgViewBoxDesc": "62",
+            "boxDesc": "67",
+            "movieId": 1301108,
+            "movieName": "碧血锦衣卫",
+            "releaseInfo": "2019-11-14"
+        },
+        {
+            "avgShowViewDesc": "27",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "66",
+            "movieId": 1284821,
+            "movieName": "坚守1200秒",
+            "releaseInfo": "2020-09-17"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "23",
+            "boxDesc": "66",
+            "movieId": 893,
+            "movieName": "十二生肖",
+            "releaseInfo": "2012-12-20"
+        },
+        {
+            "avgShowViewDesc": "48",
+            "avgViewBoxDesc": "64",
+            "boxDesc": "65",
+            "movieId": 1229534,
+            "movieName": "银河补习班",
+            "releaseInfo": "2019-07-18"
+        },
+        {
+            "avgShowViewDesc": "10",
+            "avgViewBoxDesc": "54",
+            "boxDesc": "65",
+            "movieId": 1277644,
+            "movieName": "两只老虎",
+            "releaseInfo": "2019-11-29"
+        },
+        {
+            "avgShowViewDesc": "18",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "62",
+            "movieId": 1227754,
+            "movieName": "无线信号",
+            "releaseInfo": "2020-08-14"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "24",
+            "boxDesc": "61",
+            "movieId": 78403,
+            "movieName": "狼图腾",
+            "releaseInfo": "2015-02-19"
+        },
+        {
+            "avgShowViewDesc": "22",
+            "avgViewBoxDesc": "10",
+            "boxDesc": "59",
+            "movieId": 49,
+            "movieName": "大闹天宫",
+            "releaseInfo": "2012-01-11"
+        },
+        {
+            "avgShowViewDesc": "98",
+            "avgViewBoxDesc": "82",
+            "boxDesc": "58",
+            "movieId": 343473,
+            "movieName": "龙牌之谜",
+            "releaseInfo": "2019-08-16"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "27",
+            "boxDesc": "58",
+            "movieId": 1263312,
+            "movieName": "爱情呼叫等待",
+            "releaseInfo": "2020-11-11"
+        },
+        {
+            "avgShowViewDesc": "41",
+            "avgViewBoxDesc": "53",
+            "boxDesc": "57",
+            "movieId": 1277982,
+            "movieName": "决胜时刻",
+            "releaseInfo": "2019-09-20"
+        },
+        {
+            "avgShowViewDesc": "36",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "56",
+            "movieId": 1353263,
+            "movieName": "小破孩大状元",
+            "releaseInfo": "2020-12-31"
+        },
+        {
+            "avgShowViewDesc": "80",
+            "avgViewBoxDesc": "69",
+            "boxDesc": "54",
+            "movieId": 1296649,
+            "movieName": "黄花塘往事",
+            "releaseInfo": "2019-11-08"
+        },
+        {
+            "avgShowViewDesc": "98",
+            "avgViewBoxDesc": "91",
+            "boxDesc": "53",
+            "movieId": 1263074,
+            "movieName": "红星照耀中国",
+            "releaseInfo": "2019-08-08"
+        },
+        {
+            "avgShowViewDesc": "124",
+            "avgViewBoxDesc": "85",
+            "boxDesc": "52",
+            "movieId": 1243904,
+            "movieName": "动物出击",
+            "releaseInfo": "2019-04-30"
+        },
+        {
+            "avgShowViewDesc": "11",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "51",
+            "movieId": 1291961,
+            "movieName": "迷失的心",
+            "releaseInfo": "2020-09-24"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "25",
+            "boxDesc": "50",
+            "movieId": 1280654,
+            "movieName": "活着唱着",
+            "releaseInfo": "2020-08-28"
+        },
+        {
+            "avgShowViewDesc": "2",
+            "avgViewBoxDesc": "26",
+            "boxDesc": "49",
+            "movieId": 1247400,
+            "movieName": "致命复活",
+            "releaseInfo": "2020-07-31"
+        },
+        {
+            "avgShowViewDesc": "1",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "47",
+            "movieId": 482971,
+            "movieName": "以寡敌众",
+            "releaseInfo": "2020-10-16"
+        },
+        {
+            "avgShowViewDesc": "61",
+            "avgViewBoxDesc": "73",
+            "boxDesc": "47",
+            "movieId": 1211727,
+            "movieName": "反贪风暴4",
+            "releaseInfo": "2019-04-04"
+        },
+        {
+            "avgShowViewDesc": "7",
+            "avgViewBoxDesc": "28",
+            "boxDesc": "45",
+            "movieId": 1302432,
+            "movieName": "再见，陌生人",
+            "releaseInfo": "2020-08-18"
+        },
+        {
+            "avgShowViewDesc": "25",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "44",
+            "movieId": 1336366,
+            "movieName": "极限父子",
+            "releaseInfo": "2020-08-11"
+        },
+        {
+            "avgShowViewDesc": "2",
+            "avgViewBoxDesc": "27",
+            "boxDesc": "43",
+            "movieId": 1278147,
+            "movieName": "古窑迷踪",
+            "releaseInfo": "2019-12-27"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "50",
+            "boxDesc": "41",
+            "movieId": 1217041,
+            "movieName": "南方车站的聚会",
+            "releaseInfo": "2019-12-06"
+        },
+        {
+            "avgShowViewDesc": "21",
+            "avgViewBoxDesc": "36",
+            "boxDesc": "41",
+            "movieId": 1339798,
+            "movieName": "带你归家",
+            "releaseInfo": "2020-08-10"
+        },
+        {
+            "avgShowViewDesc": "28",
+            "avgViewBoxDesc": "45",
+            "boxDesc": "41",
+            "movieId": 1351740,
+            "movieName": "神探罗蒙",
+            "releaseInfo": "2020-12-18"
+        },
+        {
+            "avgShowViewDesc": "40",
+            "avgViewBoxDesc": "71",
+            "boxDesc": "40",
+            "movieId": 1215605,
+            "movieName": "速度与激情：特别行动",
+            "releaseInfo": "2019-08-23"
+        },
+        {
+            "avgShowViewDesc": "1",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "37",
+            "movieId": 1370629,
+            "movieName": "光语者",
+            "releaseInfo": "2020-12-21"
+        },
+        {
+            "avgShowViewDesc": "43",
+            "avgViewBoxDesc": "58",
+            "boxDesc": "37",
+            "movieId": 580298,
+            "movieName": "新喜剧之王",
+            "releaseInfo": "2019-02-05"
+        }
+    ],
+    "majorTitle": "2020年电影票房总榜",
+    "minorTitle": "总票房203.11亿"
+}

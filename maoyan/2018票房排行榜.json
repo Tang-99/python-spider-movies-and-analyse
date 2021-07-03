@@ -1,0 +1,2382 @@
+{
+    "list": [
+        {
+            "avgShowViewDesc": "33",
+            "avgViewBoxDesc": "39",
+            "boxDesc": "365089",
+            "movieId": 1182552,
+            "movieName": "红海行动",
+            "releaseInfo": "2018-02-16"
+        },
+        {
+            "avgShowViewDesc": "38",
+            "avgViewBoxDesc": "38",
+            "boxDesc": "339776",
+            "movieId": 344990,
+            "movieName": "唐人街探案2",
+            "releaseInfo": "2018-02-16"
+        },
+        {
+            "avgShowViewDesc": "26",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "310002",
+            "movieId": 1200486,
+            "movieName": "我不是药神",
+            "releaseInfo": "2018-07-05"
+        },
+        {
+            "avgShowViewDesc": "28",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "254766",
+            "movieId": 1212592,
+            "movieName": "西虹市首富",
+            "releaseInfo": "2018-07-27"
+        },
+        {
+            "avgShowViewDesc": "19",
+            "avgViewBoxDesc": "38",
+            "boxDesc": "239050",
+            "movieId": 248170,
+            "movieName": "复仇者联盟3：无限战争",
+            "releaseInfo": "2018-05-11"
+        },
+        {
+            "avgShowViewDesc": "44",
+            "avgViewBoxDesc": "38",
+            "boxDesc": "223714",
+            "movieId": 346272,
+            "movieName": "捉妖记2",
+            "releaseInfo": "2018-02-16"
+        },
+        {
+            "avgShowViewDesc": "17",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "187013",
+            "movieId": 42964,
+            "movieName": "毒液：致命守护者",
+            "releaseInfo": "2018-11-09"
+        },
+        {
+            "avgShowViewDesc": "19",
+            "avgViewBoxDesc": "36",
+            "boxDesc": "185218",
+            "movieId": 249342,
+            "movieName": "海王",
+            "releaseInfo": "2018-12-07"
+        },
+        {
+            "avgShowViewDesc": "19",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "169590",
+            "movieId": 341628,
+            "movieName": "侏罗纪世界2",
+            "releaseInfo": "2018-06-15"
+        },
+        {
+            "avgShowViewDesc": "27",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "164672",
+            "movieId": 344929,
+            "movieName": "前任3：再见前任",
+            "releaseInfo": "2017-12-29"
+        },
+        {
+            "avgShowViewDesc": "18",
+            "avgViewBoxDesc": "36",
+            "boxDesc": "139667",
+            "movieId": 341178,
+            "movieName": "头号玩家",
+            "releaseInfo": "2018-03-30"
+        },
+        {
+            "avgShowViewDesc": "21",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "136153",
+            "movieId": 343720,
+            "movieName": "后来的我们",
+            "releaseInfo": "2018-04-28"
+        },
+        {
+            "avgShowViewDesc": "25",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "135506",
+            "movieId": 1203084,
+            "movieName": "一出好戏",
+            "releaseInfo": "2018-08-10"
+        },
+        {
+            "avgShowViewDesc": "15",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "127378",
+            "movieId": 342166,
+            "movieName": "无双",
+            "releaseInfo": "2018-09-30"
+        },
+        {
+            "avgShowViewDesc": "15",
+            "avgViewBoxDesc": "36",
+            "boxDesc": "124523",
+            "movieId": 341737,
+            "movieName": "碟中谍6：全面瓦解",
+            "releaseInfo": "2018-08-31"
+        },
+        {
+            "avgShowViewDesc": "22",
+            "avgViewBoxDesc": "38",
+            "boxDesc": "105178",
+            "movieId": 346178,
+            "movieName": "巨齿鲨",
+            "releaseInfo": "2018-08-10"
+        },
+        {
+            "avgShowViewDesc": "13",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "100396",
+            "movieId": 341624,
+            "movieName": "狂暴巨兽",
+            "releaseInfo": "2018-04-13"
+        },
+        {
+            "avgShowViewDesc": "12",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "89985",
+            "movieId": 1208942,
+            "movieName": "超时空同居",
+            "releaseInfo": "2018-05-18"
+        },
+        {
+            "avgShowViewDesc": "15",
+            "avgViewBoxDesc": "36",
+            "boxDesc": "83156",
+            "movieId": 343208,
+            "movieName": "蚁人2：黄蜂女现身",
+            "releaseInfo": "2018-08-24"
+        },
+        {
+            "avgShowViewDesc": "12",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "79409",
+            "movieId": 1208282,
+            "movieName": "无名之辈",
+            "releaseInfo": "2018-11-16"
+        },
+        {
+            "avgShowViewDesc": "18",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "75431",
+            "movieId": 71946,
+            "movieName": "无问西东",
+            "releaseInfo": "2018-01-12"
+        },
+        {
+            "avgShowViewDesc": "17",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "74707",
+            "movieId": 1208122,
+            "movieName": "神秘巨星",
+            "releaseInfo": "2018-01-19"
+        },
+        {
+            "avgShowViewDesc": "33",
+            "avgViewBoxDesc": "39",
+            "boxDesc": "72740",
+            "movieId": 338463,
+            "movieName": "西游记女儿国",
+            "releaseInfo": "2018-02-16"
+        },
+        {
+            "avgShowViewDesc": "18",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "66981",
+            "movieId": 1203528,
+            "movieName": "摩天营救",
+            "releaseInfo": "2018-07-20"
+        },
+        {
+            "avgShowViewDesc": "17",
+            "avgViewBoxDesc": "36",
+            "boxDesc": "66259",
+            "movieId": 341138,
+            "movieName": "黑豹",
+            "releaseInfo": "2018-03-09"
+        },
+        {
+            "avgShowViewDesc": "13",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "63323",
+            "movieId": 78460,
+            "movieName": "环太平洋：雷霆再起",
+            "releaseInfo": "2018-03-23"
+        },
+        {
+            "avgShowViewDesc": "14",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "62898",
+            "movieId": 1203437,
+            "movieName": "影",
+            "releaseInfo": "2018-09-30"
+        },
+        {
+            "avgShowViewDesc": "18",
+            "avgViewBoxDesc": "39",
+            "boxDesc": "60636",
+            "movieId": 341516,
+            "movieName": "狄仁杰之四大天王",
+            "releaseInfo": "2018-07-27"
+        },
+        {
+            "avgShowViewDesc": "29",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "60551",
+            "movieId": 1211482,
+            "movieName": "熊出没·变形记",
+            "releaseInfo": "2018-02-16"
+        },
+        {
+            "avgShowViewDesc": "15",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "60438",
+            "movieId": 1217402,
+            "movieName": "李茶的姑妈",
+            "releaseInfo": "2018-09-30"
+        },
+        {
+            "avgShowViewDesc": "16",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "58351",
+            "movieId": 248566,
+            "movieName": "邪不压正",
+            "releaseInfo": "2018-07-13"
+        },
+        {
+            "avgShowViewDesc": "27",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "55545",
+            "movieId": 1175253,
+            "movieName": "爱情公寓",
+            "releaseInfo": "2018-08-10"
+        },
+        {
+            "avgShowViewDesc": "13",
+            "avgViewBoxDesc": "36",
+            "boxDesc": "50966",
+            "movieId": 1198178,
+            "movieName": "动物世界",
+            "releaseInfo": "2018-06-29"
+        },
+        {
+            "avgShowViewDesc": "14",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "49748",
+            "movieId": 257739,
+            "movieName": "古墓丽影：源起之战",
+            "releaseInfo": "2018-03-16"
+        },
+        {
+            "avgShowViewDesc": "18",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "49194",
+            "movieId": 341897,
+            "movieName": "勇敢者游戏：决战丛林",
+            "releaseInfo": "2018-01-12"
+        },
+        {
+            "avgShowViewDesc": "26",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "48059",
+            "movieId": 1217637,
+            "movieName": "厉害了，我的国",
+            "releaseInfo": "2018-03-02"
+        },
+        {
+            "avgShowViewDesc": "10",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "44299",
+            "movieId": 1203575,
+            "movieName": "反贪风暴3",
+            "releaseInfo": "2018-09-14"
+        },
+        {
+            "avgShowViewDesc": "12",
+            "avgViewBoxDesc": "37",
+            "boxDesc": "39887",
+            "movieId": 577564,
+            "movieName": "神奇动物：格林德沃之罪",
+            "releaseInfo": "2018-11-16"
+        },
+        {
+            "avgShowViewDesc": "15",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "37531",
+            "movieId": 1216446,
+            "movieName": "快把我哥带走",
+            "releaseInfo": "2018-08-17"
+        },
+        {
+            "avgShowViewDesc": "13",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "35861",
+            "movieId": 346637,
+            "movieName": "幕后玩家",
+            "releaseInfo": "2018-04-28"
+        },
+        {
+            "avgShowViewDesc": "11",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "35665",
+            "movieId": 1217236,
+            "movieName": "悲伤逆流成河",
+            "releaseInfo": "2018-09-21"
+        },
+        {
+            "avgShowViewDesc": "12",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "35438",
+            "movieId": 338385,
+            "movieName": "超人总动员2",
+            "releaseInfo": "2018-06-22"
+        },
+        {
+            "avgShowViewDesc": "15",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "35426",
+            "movieId": 1212512,
+            "movieName": "蜘蛛侠：平行宇宙",
+            "releaseInfo": "2018-12-21"
+        },
+        {
+            "avgShowViewDesc": "11",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "31749",
+            "movieId": 1204774,
+            "movieName": "黄金兄弟",
+            "releaseInfo": "2018-09-21"
+        },
+        {
+            "avgShowViewDesc": "12",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "31528",
+            "movieId": 248639,
+            "movieName": "移动迷宫3：死亡解药",
+            "releaseInfo": "2018-01-26"
+        },
+        {
+            "avgShowViewDesc": "17",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "28559",
+            "movieId": 343136,
+            "movieName": "小萝莉的猴神大叔",
+            "releaseInfo": "2018-03-02"
+        },
+        {
+            "avgShowViewDesc": "9",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "28528",
+            "movieId": 1209159,
+            "movieName": "找到你",
+            "releaseInfo": "2018-10-05"
+        },
+        {
+            "avgShowViewDesc": "28",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "27345",
+            "movieId": 1240159,
+            "movieName": "来电狂响",
+            "releaseInfo": "2018-12-28"
+        },
+        {
+            "avgShowViewDesc": "10",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "27117",
+            "movieId": 341213,
+            "movieName": "无敌破坏王2：大闹互联网",
+            "releaseInfo": "2018-11-23"
+        },
+        {
+            "avgShowViewDesc": "14",
+            "avgViewBoxDesc": "37",
+            "boxDesc": "26794",
+            "movieId": 247948,
+            "movieName": "星球大战：最后的绝地武士",
+            "releaseInfo": "2018-01-05"
+        },
+        {
+            "avgShowViewDesc": "57",
+            "avgViewBoxDesc": "37",
+            "boxDesc": "26580",
+            "movieId": 345036,
+            "movieName": "地球最后的夜晚",
+            "releaseInfo": "2018-12-31"
+        },
+        {
+            "avgShowViewDesc": "12",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "26107",
+            "movieId": 1210830,
+            "movieName": "胖子行动队",
+            "releaseInfo": "2018-09-30"
+        },
+        {
+            "avgShowViewDesc": "15",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "23504",
+            "movieId": 1170264,
+            "movieName": "芳华",
+            "releaseInfo": "2017-12-15"
+        },
+        {
+            "avgShowViewDesc": "11",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "23449",
+            "movieId": 338493,
+            "movieName": "南极之恋",
+            "releaseInfo": "2018-02-01"
+        },
+        {
+            "avgShowViewDesc": "13",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "22361",
+            "movieId": 343070,
+            "movieName": "精灵旅社3：疯狂假期",
+            "releaseInfo": "2018-08-17"
+        },
+        {
+            "avgShowViewDesc": "10",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "22089",
+            "movieId": 1203554,
+            "movieName": "寂静之地",
+            "releaseInfo": "2018-05-18"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "21686",
+            "movieId": 342062,
+            "movieName": "铁血战士",
+            "releaseInfo": "2018-10-26"
+        },
+        {
+            "avgShowViewDesc": "10",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "21038",
+            "movieId": 881837,
+            "movieName": "起跑线",
+            "releaseInfo": "2018-04-04"
+        },
+        {
+            "avgShowViewDesc": "10",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "20925",
+            "movieId": 1207042,
+            "movieName": "哆啦A梦：大雄的金银岛",
+            "releaseInfo": "2018-06-01"
+        },
+        {
+            "avgShowViewDesc": "11",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "20364",
+            "movieId": 1139994,
+            "movieName": "猛虫过江",
+            "releaseInfo": "2018-06-15"
+        },
+        {
+            "avgShowViewDesc": "13",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "19151",
+            "movieId": 672130,
+            "movieName": "奇迹男孩",
+            "releaseInfo": "2018-01-19"
+        },
+        {
+            "avgShowViewDesc": "9",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "17230",
+            "movieId": 1207271,
+            "movieName": "憨豆特工3",
+            "releaseInfo": "2018-11-23"
+        },
+        {
+            "avgShowViewDesc": "12",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "17201",
+            "movieId": 828745,
+            "movieName": "公牛历险记",
+            "releaseInfo": "2018-01-19"
+        },
+        {
+            "avgShowViewDesc": "21",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "16985",
+            "movieId": 1211538,
+            "movieName": "祖宗十九代",
+            "releaseInfo": "2018-02-16"
+        },
+        {
+            "avgShowViewDesc": "15",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "16839",
+            "movieId": 343762,
+            "movieName": "比得兔",
+            "releaseInfo": "2018-03-02"
+        },
+        {
+            "avgShowViewDesc": "11",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "15954",
+            "movieId": 123,
+            "movieName": "龙猫",
+            "releaseInfo": "2018-12-14"
+        },
+        {
+            "avgShowViewDesc": "10",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "15823",
+            "movieId": 1220713,
+            "movieName": "新大头儿子和小头爸爸3：俄罗斯奇遇记",
+            "releaseInfo": "2018-07-06"
+        },
+        {
+            "avgShowViewDesc": "14",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "15321",
+            "movieId": 248162,
+            "movieName": "欧洲攻略",
+            "releaseInfo": "2018-08-17"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "14939",
+            "movieId": 1229020,
+            "movieName": "嗝嗝老师",
+            "releaseInfo": "2018-10-12"
+        },
+        {
+            "avgShowViewDesc": "11",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "14630",
+            "movieId": 1218190,
+            "movieName": "大师兄",
+            "releaseInfo": "2018-08-24"
+        },
+        {
+            "avgShowViewDesc": "15",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "13098",
+            "movieId": 248907,
+            "movieName": "新乌龙院之笑闹江湖",
+            "releaseInfo": "2018-08-17"
+        },
+        {
+            "avgShowViewDesc": "9",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "12736",
+            "movieId": 1225632,
+            "movieName": "名侦探柯南：零的执行人",
+            "releaseInfo": "2018-11-09"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "12295",
+            "movieId": 344649,
+            "movieName": "天气预爆",
+            "releaseInfo": "2018-12-21"
+        },
+        {
+            "avgShowViewDesc": "12",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "12259",
+            "movieId": 368135,
+            "movieName": "二代妖精之今生有幸",
+            "releaseInfo": "2017-12-29"
+        },
+        {
+            "avgShowViewDesc": "15",
+            "avgViewBoxDesc": "37",
+            "boxDesc": "12156",
+            "movieId": 345655,
+            "movieName": "云南虫谷",
+            "releaseInfo": "2018-12-29"
+        },
+        {
+            "avgShowViewDesc": "10",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "11570",
+            "movieId": 1200265,
+            "movieName": "叶问外传：张天志",
+            "releaseInfo": "2018-12-21"
+        },
+        {
+            "avgShowViewDesc": "7",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "11456",
+            "movieId": 344292,
+            "movieName": "阿尔法：狼伴归途",
+            "releaseInfo": "2018-09-07"
+        },
+        {
+            "avgShowViewDesc": "11",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "11284",
+            "movieId": 1217513,
+            "movieName": "风语咒",
+            "releaseInfo": "2018-08-03"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "11257",
+            "movieId": 346015,
+            "movieName": "胡桃夹子和四个王国",
+            "releaseInfo": "2018-11-02"
+        },
+        {
+            "avgShowViewDesc": "10",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "11153",
+            "movieId": 1200984,
+            "movieName": "妖铃铃",
+            "releaseInfo": "2017-12-29"
+        },
+        {
+            "avgShowViewDesc": "7",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "11013",
+            "movieId": 344950,
+            "movieName": "21克拉",
+            "releaseInfo": "2018-04-20"
+        },
+        {
+            "avgShowViewDesc": "5",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "10630",
+            "movieId": 341944,
+            "movieName": "游侠索罗：星球大战外传",
+            "releaseInfo": "2018-05-25"
+        },
+        {
+            "avgShowViewDesc": "9",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "10542",
+            "movieId": 1204622,
+            "movieName": "水形物语",
+            "releaseInfo": "2018-03-16"
+        },
+        {
+            "avgShowViewDesc": "12",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "10477",
+            "movieId": 1220736,
+            "movieName": "神秘世界历险记4",
+            "releaseInfo": "2018-08-03"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "10125",
+            "movieId": 246714,
+            "movieName": "马戏之王",
+            "releaseInfo": "2018-02-01"
+        },
+        {
+            "avgShowViewDesc": "9",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "10113",
+            "movieId": 672164,
+            "movieName": "幸福马上来",
+            "releaseInfo": "2018-06-08"
+        },
+        {
+            "avgShowViewDesc": "13",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "9674",
+            "movieId": 1216365,
+            "movieName": "小偷家族",
+            "releaseInfo": "2018-08-03"
+        },
+        {
+            "avgShowViewDesc": "65",
+            "avgViewBoxDesc": "44",
+            "boxDesc": "9640",
+            "movieId": 1223430,
+            "movieName": "浴血广昌",
+            "releaseInfo": "2018-08-01"
+        },
+        {
+            "avgShowViewDesc": "7",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "9512",
+            "movieId": 345493,
+            "movieName": "飓风奇劫",
+            "releaseInfo": "2018-11-02"
+        },
+        {
+            "avgShowViewDesc": "7",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "9460",
+            "movieId": 1199331,
+            "movieName": "厕所英雄",
+            "releaseInfo": "2018-06-08"
+        },
+        {
+            "avgShowViewDesc": "7",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "9132",
+            "movieId": 1197181,
+            "movieName": "金蝉脱壳2：冥府",
+            "releaseInfo": "2018-06-29"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "8382",
+            "movieId": 246596,
+            "movieName": "昨日青空",
+            "releaseInfo": "2018-10-26"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "36",
+            "boxDesc": "8020",
+            "movieId": 1216326,
+            "movieName": "你好，之华",
+            "releaseInfo": "2018-11-09"
+        },
+        {
+            "avgShowViewDesc": "7",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "7911",
+            "movieId": 342165,
+            "movieName": "武林怪兽",
+            "releaseInfo": "2018-12-21"
+        },
+        {
+            "avgShowViewDesc": "12",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "7693",
+            "movieId": 560411,
+            "movieName": "阿凡提新传：种金记",
+            "releaseInfo": "2018-10-01"
+        },
+        {
+            "avgShowViewDesc": "7",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "7683",
+            "movieId": 342791,
+            "movieName": "巴霍巴利王2：终结",
+            "releaseInfo": "2018-05-04"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "7508",
+            "movieId": 1205514,
+            "movieName": "雪怪大冒险",
+            "releaseInfo": "2018-10-19"
+        },
+        {
+            "avgShowViewDesc": "9",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "7422",
+            "movieId": 341941,
+            "movieName": "冰雪女王3：火与冰",
+            "releaseInfo": "2018-04-05"
+        },
+        {
+            "avgShowViewDesc": "9",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "7268",
+            "movieId": 1216914,
+            "movieName": "潜艇总动员：海底两万里",
+            "releaseInfo": "2018-06-01"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "7082",
+            "movieId": 1208008,
+            "movieName": "泄密者",
+            "releaseInfo": "2018-06-15"
+        },
+        {
+            "avgShowViewDesc": "10",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "7079",
+            "movieId": 343945,
+            "movieName": "解忧杂货店",
+            "releaseInfo": "2017-12-29"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "6994",
+            "movieId": 1208342,
+            "movieName": "江湖儿女",
+            "releaseInfo": "2018-09-21"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "6879",
+            "movieId": 1203310,
+            "movieName": "龙虾刑警",
+            "releaseInfo": "2018-06-22"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "6697",
+            "movieId": 1215919,
+            "movieName": "印度合伙人",
+            "releaseInfo": "2018-12-14"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "6608",
+            "movieId": 338426,
+            "movieName": "湮灭",
+            "releaseInfo": "2018-04-13"
+        },
+        {
+            "avgShowViewDesc": "19",
+            "avgViewBoxDesc": "36",
+            "boxDesc": "6499",
+            "movieId": 342754,
+            "movieName": "三块广告牌",
+            "releaseInfo": "2018-03-02"
+        },
+        {
+            "avgShowViewDesc": "9",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "6488",
+            "movieId": 338400,
+            "movieName": "神奇马戏团之动物饼干",
+            "releaseInfo": "2018-07-21"
+        },
+        {
+            "avgShowViewDesc": "9",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "6434",
+            "movieId": 247083,
+            "movieName": "闺蜜2",
+            "releaseInfo": "2018-03-02"
+        },
+        {
+            "avgShowViewDesc": "9",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "6306",
+            "movieId": 1048288,
+            "movieName": "英雄本色2018",
+            "releaseInfo": "2018-01-18"
+        },
+        {
+            "avgShowViewDesc": "5",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "6174",
+            "movieId": 1203678,
+            "movieName": "我的间谍前男友",
+            "releaseInfo": "2018-10-19"
+        },
+        {
+            "avgShowViewDesc": "14",
+            "avgViewBoxDesc": "36",
+            "boxDesc": "6142",
+            "movieId": 345862,
+            "movieName": "妖猫传",
+            "releaseInfo": "2017-12-22"
+        },
+        {
+            "avgShowViewDesc": "10",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "6126",
+            "movieId": 1204714,
+            "movieName": "忌日快乐",
+            "releaseInfo": "2018-02-02"
+        },
+        {
+            "avgShowViewDesc": "13",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "6013",
+            "movieId": 1227585,
+            "movieName": "新灰姑娘",
+            "releaseInfo": "2018-10-01"
+        },
+        {
+            "avgShowViewDesc": "15",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "5934",
+            "movieId": 342068,
+            "movieName": "寻梦环游记",
+            "releaseInfo": "2017-11-24"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "5424",
+            "movieId": 345991,
+            "movieName": "暴裂无声",
+            "releaseInfo": "2018-04-04"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "5351",
+            "movieId": 367738,
+            "movieName": "完美陌生人",
+            "releaseInfo": "2018-05-25"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "5297",
+            "movieId": 343667,
+            "movieName": "流浪猫鲍勃",
+            "releaseInfo": "2018-11-02"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "5137",
+            "movieId": 1200045,
+            "movieName": "深海越狱",
+            "releaseInfo": "2018-06-08"
+        },
+        {
+            "avgShowViewDesc": "7",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "5101",
+            "movieId": 1200978,
+            "movieName": "遇见你真好",
+            "releaseInfo": "2018-03-29"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "5091",
+            "movieId": 78480,
+            "movieName": "狗十三",
+            "releaseInfo": "2018-12-07"
+        },
+        {
+            "avgShowViewDesc": "13",
+            "avgViewBoxDesc": "36",
+            "boxDesc": "4984",
+            "movieId": 346096,
+            "movieName": "阿修罗",
+            "releaseInfo": "2018-07-13"
+        },
+        {
+            "avgShowViewDesc": "7",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "4950",
+            "movieId": 344771,
+            "movieName": "谜巢",
+            "releaseInfo": "2018-01-19"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "4851",
+            "movieId": 1197626,
+            "movieName": "镰仓物语",
+            "releaseInfo": "2018-09-14"
+        },
+        {
+            "avgShowViewDesc": "20",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "4706",
+            "movieId": 1229214,
+            "movieName": "爸，我一定行的",
+            "releaseInfo": "2018-08-24"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "4681",
+            "movieId": 1208748,
+            "movieName": "小马宝莉大电影",
+            "releaseInfo": "2018-02-02"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "4540",
+            "movieId": 342900,
+            "movieName": "通勤营救",
+            "releaseInfo": "2018-03-30"
+        },
+        {
+            "avgShowViewDesc": "9",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "4430",
+            "movieId": 1189514,
+            "movieName": "断片之险途夺宝",
+            "releaseInfo": "2018-12-29"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "4352",
+            "movieId": 1199188,
+            "movieName": "犬之岛",
+            "releaseInfo": "2018-04-20"
+        },
+        {
+            "avgShowViewDesc": "13",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "4063",
+            "movieId": 1204476,
+            "movieName": "印度暴徒",
+            "releaseInfo": "2018-12-28"
+        },
+        {
+            "avgShowViewDesc": "7",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "3927",
+            "movieId": 1209260,
+            "movieName": "卧底巨星",
+            "releaseInfo": "2018-01-12"
+        },
+        {
+            "avgShowViewDesc": "5",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "3807",
+            "movieId": 345013,
+            "movieName": "战神纪",
+            "releaseInfo": "2018-04-28"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "3785",
+            "movieId": 1217434,
+            "movieName": "大闹西游",
+            "releaseInfo": "2018-09-22"
+        },
+        {
+            "avgShowViewDesc": "9",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "3723",
+            "movieId": 1204720,
+            "movieName": "妈妈咪鸭",
+            "releaseInfo": "2018-03-09"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "3682",
+            "movieId": 1206839,
+            "movieName": "我是你妈",
+            "releaseInfo": "2018-05-11"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "3614",
+            "movieId": 439495,
+            "movieName": "苏丹",
+            "releaseInfo": "2018-08-31"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "3502",
+            "movieId": 344162,
+            "movieName": "脱单告急",
+            "releaseInfo": "2018-04-20"
+        },
+        {
+            "avgShowViewDesc": "5",
+            "avgViewBoxDesc": "36",
+            "boxDesc": "3490",
+            "movieId": 1198439,
+            "movieName": "低压槽：欲望之城",
+            "releaseInfo": "2018-04-28"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "3449",
+            "movieId": 78490,
+            "movieName": "冰封侠：时空行者",
+            "releaseInfo": "2018-11-02"
+        },
+        {
+            "avgShowViewDesc": "7",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "3121",
+            "movieId": 1213098,
+            "movieName": "的士速递5",
+            "releaseInfo": "2018-08-03"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "28",
+            "boxDesc": "3023",
+            "movieId": 1221035,
+            "movieName": "老爸102岁",
+            "releaseInfo": "2018-11-30"
+        },
+        {
+            "avgShowViewDesc": "5",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "3021",
+            "movieId": 343176,
+            "movieName": "奇葩朵朵",
+            "releaseInfo": "2018-04-04"
+        },
+        {
+            "avgShowViewDesc": "7",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "3015",
+            "movieId": 1219776,
+            "movieName": "网络谜踪",
+            "releaseInfo": "2018-12-14"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "2876",
+            "movieId": 1203768,
+            "movieName": "浪矢解忧杂货店",
+            "releaseInfo": "2018-02-02"
+        },
+        {
+            "avgShowViewDesc": "9",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "2856",
+            "movieId": 1234403,
+            "movieName": "恐龙王",
+            "releaseInfo": "2018-11-10"
+        },
+        {
+            "avgShowViewDesc": "5",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "2827",
+            "movieId": 345870,
+            "movieName": "传奇的诞生",
+            "releaseInfo": "2018-09-07"
+        },
+        {
+            "avgShowViewDesc": "7",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "2782",
+            "movieId": 1212533,
+            "movieName": "金龟子",
+            "releaseInfo": "2018-02-02"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "2587",
+            "movieId": 346465,
+            "movieName": "绿毛怪格林奇",
+            "releaseInfo": "2018-12-14"
+        },
+        {
+            "avgShowViewDesc": "9",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "2549",
+            "movieId": 257454,
+            "movieName": "第七个小矮人",
+            "releaseInfo": "2018-06-16"
+        },
+        {
+            "avgShowViewDesc": "2",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "2472",
+            "movieId": 1229749,
+            "movieName": "宝贝儿",
+            "releaseInfo": "2018-10-19"
+        },
+        {
+            "avgShowViewDesc": "26",
+            "avgViewBoxDesc": "28",
+            "boxDesc": "2447",
+            "movieId": 1212787,
+            "movieName": "坏爸爸",
+            "releaseInfo": "2018-02-02"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "2241",
+            "movieId": 672382,
+            "movieName": "虎胆追凶",
+            "releaseInfo": "2018-09-21"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "2180",
+            "movieId": 1213193,
+            "movieName": "猫与桃花源",
+            "releaseInfo": "2018-04-05"
+        },
+        {
+            "avgShowViewDesc": "11",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "2079",
+            "movieId": 528054,
+            "movieName": "青年马克思",
+            "releaseInfo": "2018-05-05"
+        },
+        {
+            "avgShowViewDesc": "7",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "2062",
+            "movieId": 1217650,
+            "movieName": "魔镜奇缘2",
+            "releaseInfo": "2018-06-01"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "2062",
+            "movieId": 1199029,
+            "movieName": "玛丽与魔女之花",
+            "releaseInfo": "2018-04-28"
+        },
+        {
+            "avgShowViewDesc": "11",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "2057",
+            "movieId": 1220838,
+            "movieName": "藏北秘岭-重返无人区",
+            "releaseInfo": "2018-08-31"
+        },
+        {
+            "avgShowViewDesc": "9",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "1973",
+            "movieId": 11237,
+            "movieName": "阿飞正传",
+            "releaseInfo": "2018-06-25"
+        },
+        {
+            "avgShowViewDesc": "109",
+            "avgViewBoxDesc": "40",
+            "boxDesc": "1959",
+            "movieId": 344453,
+            "movieName": "整形师·脸",
+            "releaseInfo": "2016-05-20"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "1934",
+            "movieId": 1199446,
+            "movieName": "泡芙小姐",
+            "releaseInfo": "2018-02-09"
+        },
+        {
+            "avgShowViewDesc": "104",
+            "avgViewBoxDesc": "39",
+            "boxDesc": "1931",
+            "movieId": 337191,
+            "movieName": "妄想症",
+            "releaseInfo": "2016-05-06"
+        },
+        {
+            "avgShowViewDesc": "114",
+            "avgViewBoxDesc": "41",
+            "boxDesc": "1914",
+            "movieId": 569275,
+            "movieName": "我未成年",
+            "releaseInfo": "2014-10-14"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "1904",
+            "movieId": 1207335,
+            "movieName": "滴答屋",
+            "releaseInfo": "2018-11-01"
+        },
+        {
+            "avgShowViewDesc": "9",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "1853",
+            "movieId": 1201381,
+            "movieName": "恋爱回旋",
+            "releaseInfo": "2018-03-09"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "1797",
+            "movieId": 1204093,
+            "movieName": "功夫联盟",
+            "releaseInfo": "2018-10-26"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "1791",
+            "movieId": 1208148,
+            "movieName": "中国蓝盔",
+            "releaseInfo": "2018-11-23"
+        },
+        {
+            "avgShowViewDesc": "5",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "1783",
+            "movieId": 410641,
+            "movieName": "我说的都是真的",
+            "releaseInfo": "2018-03-30"
+        },
+        {
+            "avgShowViewDesc": "7",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "1759",
+            "movieId": 1218299,
+            "movieName": "深海历险记",
+            "releaseInfo": "2018-08-24"
+        },
+        {
+            "avgShowViewDesc": "120",
+            "avgViewBoxDesc": "42",
+            "boxDesc": "1731",
+            "movieId": 248854,
+            "movieName": "老海的新生活",
+            "releaseInfo": "2014-12-31"
+        },
+        {
+            "avgShowViewDesc": "5",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "1716",
+            "movieId": 1180993,
+            "movieName": "花滑女王",
+            "releaseInfo": "2018-03-30"
+        },
+        {
+            "avgShowViewDesc": "51",
+            "avgViewBoxDesc": "47",
+            "boxDesc": "1715",
+            "movieId": 344661,
+            "movieName": "邹碧华",
+            "releaseInfo": "2017-11-20"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "1685",
+            "movieId": 1211063,
+            "movieName": "太空救援",
+            "releaseInfo": "2018-01-12"
+        },
+        {
+            "avgShowViewDesc": "123",
+            "avgViewBoxDesc": "39",
+            "boxDesc": "1661",
+            "movieId": 344742,
+            "movieName": "完美有多美",
+            "releaseInfo": "2017-02-17"
+        },
+        {
+            "avgShowViewDesc": "97",
+            "avgViewBoxDesc": "37",
+            "boxDesc": "1650",
+            "movieId": 344043,
+            "movieName": "圣诞大赢家",
+            "releaseInfo": "2015-12-12"
+        },
+        {
+            "avgShowViewDesc": "21",
+            "avgViewBoxDesc": "40",
+            "boxDesc": "1636",
+            "movieId": 1136547,
+            "movieName": "疯狂丑小鸭",
+            "releaseInfo": "2016-10-03"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "1609",
+            "movieId": 1212413,
+            "movieName": "大坏狐狸的故事",
+            "releaseInfo": "2018-03-16"
+        },
+        {
+            "avgShowViewDesc": "110",
+            "avgViewBoxDesc": "41",
+            "boxDesc": "1581",
+            "movieId": 345963,
+            "movieName": "阿里巴巴2所罗门封印",
+            "releaseInfo": "2016-04-30"
+        },
+        {
+            "avgShowViewDesc": "55",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "1561",
+            "movieId": 487449,
+            "movieName": "心灵的阳光",
+            "releaseInfo": "2011-12-31"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "1499",
+            "movieId": 883179,
+            "movieName": "汪星卧底",
+            "releaseInfo": "2018-07-20"
+        },
+        {
+            "avgShowViewDesc": "99",
+            "avgViewBoxDesc": "41",
+            "boxDesc": "1462",
+            "movieId": 343944,
+            "movieName": "太空熊猫英雄归来",
+            "releaseInfo": "2016-04-02"
+        },
+        {
+            "avgShowViewDesc": "5",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "1433",
+            "movieId": 1187542,
+            "movieName": "昼颜",
+            "releaseInfo": "2018-05-18"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "1427",
+            "movieId": 342412,
+            "movieName": "超能泰坦",
+            "releaseInfo": "2018-10-12"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "1421",
+            "movieId": 337129,
+            "movieName": "亡命救赎",
+            "releaseInfo": "2018-11-30"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "1411",
+            "movieId": 1198828,
+            "movieName": "古剑奇谭之流月昭明",
+            "releaseInfo": "2018-10-01"
+        },
+        {
+            "avgShowViewDesc": "116",
+            "avgViewBoxDesc": "43",
+            "boxDesc": "1359",
+            "movieId": 246131,
+            "movieName": "泡菜",
+            "releaseInfo": "2014-08-25"
+        },
+        {
+            "avgShowViewDesc": "10",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "1358",
+            "movieId": 655258,
+            "movieName": "机器之血",
+            "releaseInfo": "2017-12-22"
+        },
+        {
+            "avgShowViewDesc": "110",
+            "avgViewBoxDesc": "41",
+            "boxDesc": "1326",
+            "movieId": 343887,
+            "movieName": "守信少年",
+            "releaseInfo": "2015-07-03"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "1310",
+            "movieId": 1229915,
+            "movieName": "中国合伙人2",
+            "releaseInfo": "2018-12-18"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "1277",
+            "movieId": 346339,
+            "movieName": "为你写诗",
+            "releaseInfo": "2018-10-26"
+        },
+        {
+            "avgShowViewDesc": "25",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "1265",
+            "movieId": 319904,
+            "movieName": "盛世秧歌",
+            "releaseInfo": "2007-12-31"
+        },
+        {
+            "avgShowViewDesc": "20",
+            "avgViewBoxDesc": "28",
+            "boxDesc": "1253",
+            "movieId": 1208456,
+            "movieName": "李保国",
+            "releaseInfo": "2018-07-25"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "1207",
+            "movieId": 1189938,
+            "movieName": "道高一丈",
+            "releaseInfo": "2018-09-06"
+        },
+        {
+            "avgShowViewDesc": "13",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "1158",
+            "movieId": 1225029,
+            "movieName": "信仰者",
+            "releaseInfo": "2018-08-24"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "1148",
+            "movieId": 1165276,
+            "movieName": "摘金奇缘",
+            "releaseInfo": "2018-11-30"
+        },
+        {
+            "avgShowViewDesc": "5",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "1140",
+            "movieId": 1132494,
+            "movieName": "生存家族",
+            "releaseInfo": "2018-06-22"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "1115",
+            "movieId": 1203436,
+            "movieName": "金钱世界",
+            "releaseInfo": "2018-03-02"
+        },
+        {
+            "avgShowViewDesc": "2",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "1113",
+            "movieId": 1220969,
+            "movieName": "惊涛飓浪",
+            "releaseInfo": "2018-12-07"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "1059",
+            "movieId": 1177952,
+            "movieName": "狗狗的疯狂假期",
+            "releaseInfo": "2018-02-02"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "1041",
+            "movieId": 344135,
+            "movieName": "淘气大侦探",
+            "releaseInfo": "2018-07-20"
+        },
+        {
+            "avgShowViewDesc": "52",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "1033",
+            "movieId": 1204493,
+            "movieName": "天慕",
+            "releaseInfo": "2018-09-21"
+        },
+        {
+            "avgShowViewDesc": "10",
+            "avgViewBoxDesc": "36",
+            "boxDesc": "1024",
+            "movieId": 1197732,
+            "movieName": "心理罪之城市之光",
+            "releaseInfo": "2017-12-22"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "987",
+            "movieId": 1216296,
+            "movieName": "说走就走之不说再见",
+            "releaseInfo": "2018-09-14"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "980",
+            "movieId": 1182417,
+            "movieName": "萌犬好声音",
+            "releaseInfo": "2018-03-24"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "27",
+            "boxDesc": "976",
+            "movieId": 475721,
+            "movieName": "24小时：末路重生",
+            "releaseInfo": "2018-01-26"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "968",
+            "movieId": 345058,
+            "movieName": "解码游戏",
+            "releaseInfo": "2018-08-03"
+        },
+        {
+            "avgShowViewDesc": "36",
+            "avgViewBoxDesc": "36",
+            "boxDesc": "928",
+            "movieId": 1246221,
+            "movieName": "天渠",
+            "releaseInfo": "2018-11-30"
+        },
+        {
+            "avgShowViewDesc": "5",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "881",
+            "movieId": 592271,
+            "movieName": "小悟空",
+            "releaseInfo": "2018-07-14"
+        },
+        {
+            "avgShowViewDesc": "104",
+            "avgViewBoxDesc": "39",
+            "boxDesc": "875",
+            "movieId": 246995,
+            "movieName": "闪闪的红星",
+            "releaseInfo": "2007-10-01"
+        },
+        {
+            "avgShowViewDesc": "5",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "868",
+            "movieId": 328844,
+            "movieName": "虎皮萌企鹅",
+            "releaseInfo": "2018-03-16"
+        },
+        {
+            "avgShowViewDesc": "5",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "864",
+            "movieId": 1220923,
+            "movieName": "我的宠物恐龙",
+            "releaseInfo": "2018-05-31"
+        },
+        {
+            "avgShowViewDesc": "31",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "837",
+            "movieId": 1212982,
+            "movieName": "人怕出名猪怕壮",
+            "releaseInfo": "2018-02-20"
+        },
+        {
+            "avgShowViewDesc": "42",
+            "avgViewBoxDesc": "25",
+            "boxDesc": "823",
+            "movieId": 1238946,
+            "movieName": "最后一公里",
+            "releaseInfo": "2018-11-16"
+        },
+        {
+            "avgShowViewDesc": "40",
+            "avgViewBoxDesc": "43",
+            "boxDesc": "805",
+            "movieId": 1221348,
+            "movieName": "又是一年三月三",
+            "releaseInfo": "2018-12-20"
+        },
+        {
+            "avgShowViewDesc": "16",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "804",
+            "movieId": 343905,
+            "movieName": "帕丁顿熊2",
+            "releaseInfo": "2017-12-08"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "802",
+            "movieId": 344164,
+            "movieName": "脱皮爸爸",
+            "releaseInfo": "2018-03-23"
+        },
+        {
+            "avgShowViewDesc": "40",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "746",
+            "movieId": 330115,
+            "movieName": "我和神马查干",
+            "releaseInfo": "2012-12-05"
+        },
+        {
+            "avgShowViewDesc": "2",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "745",
+            "movieId": 342607,
+            "movieName": "未择之路",
+            "releaseInfo": "2018-09-14"
+        },
+        {
+            "avgShowViewDesc": "19",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "693",
+            "movieId": 1243911,
+            "movieName": "春天的马拉松",
+            "releaseInfo": "2018-12-14"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "690",
+            "movieId": 334598,
+            "movieName": "玛雅蜜蜂历险记",
+            "releaseInfo": "2018-10-12"
+        },
+        {
+            "avgShowViewDesc": "5",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "679",
+            "movieId": 569712,
+            "movieName": "黑子的篮球·终极一战",
+            "releaseInfo": "2018-08-24"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "27",
+            "boxDesc": "678",
+            "movieId": 635863,
+            "movieName": "香港大营救",
+            "releaseInfo": "2018-05-04"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "670",
+            "movieId": 603864,
+            "movieName": "战犬瑞克斯",
+            "releaseInfo": "2018-05-11"
+        },
+        {
+            "avgShowViewDesc": "40",
+            "avgViewBoxDesc": "42",
+            "boxDesc": "669",
+            "movieId": 493549,
+            "movieName": "大寒",
+            "releaseInfo": "2018-08-14"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "662",
+            "movieId": 1196151,
+            "movieName": "李宗伟：败者为王",
+            "releaseInfo": "2018-09-07"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "26",
+            "boxDesc": "661",
+            "movieId": 1217651,
+            "movieName": "小公主艾薇拉与神秘王国",
+            "releaseInfo": "2018-05-12"
+        },
+        {
+            "avgShowViewDesc": "9",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "655",
+            "movieId": 667783,
+            "movieName": "爱在记忆消逝前",
+            "releaseInfo": "2018-02-23"
+        },
+        {
+            "avgShowViewDesc": "31",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "632",
+            "movieId": 643506,
+            "movieName": "古镇画情",
+            "releaseInfo": "2009-12-31"
+        },
+        {
+            "avgShowViewDesc": "5",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "609",
+            "movieId": 1219270,
+            "movieName": "最后一球",
+            "releaseInfo": "2018-06-29"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "26",
+            "boxDesc": "605",
+            "movieId": 341540,
+            "movieName": "麦兵兵之夺宝联“萌”",
+            "releaseInfo": "2018-01-27"
+        },
+        {
+            "avgShowViewDesc": "41",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "588",
+            "movieId": 1217789,
+            "movieName": "出山记",
+            "releaseInfo": "2018-04-20"
+        },
+        {
+            "avgShowViewDesc": "23",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "574",
+            "movieId": 1236912,
+            "movieName": "远去的牧歌",
+            "releaseInfo": "2018-09-11"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "573",
+            "movieId": 1212450,
+            "movieName": "小猫巴克里",
+            "releaseInfo": "2017-12-30"
+        },
+        {
+            "avgShowViewDesc": "102",
+            "avgViewBoxDesc": "38",
+            "boxDesc": "570",
+            "movieId": 342568,
+            "movieName": "诡梦凶铃",
+            "releaseInfo": "2016-09-23"
+        },
+        {
+            "avgShowViewDesc": "5",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "567",
+            "movieId": 329733,
+            "movieName": "迷镇凶案",
+            "releaseInfo": "2018-01-12"
+        },
+        {
+            "avgShowViewDesc": "20",
+            "avgViewBoxDesc": "28",
+            "boxDesc": "559",
+            "movieId": 1211086,
+            "movieName": "敦煌不了情",
+            "releaseInfo": "2018-12-07"
+        },
+        {
+            "avgShowViewDesc": "38",
+            "avgViewBoxDesc": "36",
+            "boxDesc": "548",
+            "movieId": 1225065,
+            "movieName": "文朝荣",
+            "releaseInfo": "2018-07-28"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "542",
+            "movieId": 1201161,
+            "movieName": "赛尔号大电影6：圣者无敌",
+            "releaseInfo": "2017-08-18"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "539",
+            "movieId": 368109,
+            "movieName": "帝企鹅日记2：召唤",
+            "releaseInfo": "2018-10-12"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "532",
+            "movieId": 257664,
+            "movieName": "克隆人",
+            "releaseInfo": "2018-11-23"
+        },
+        {
+            "avgShowViewDesc": "9",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "527",
+            "movieId": 1225340,
+            "movieName": "您一定不要错过",
+            "releaseInfo": "2018-07-06"
+        },
+        {
+            "avgShowViewDesc": "7",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "502",
+            "movieId": 334625,
+            "movieName": "美食大冒险之英雄烩",
+            "releaseInfo": "2018-08-17"
+        },
+        {
+            "avgShowViewDesc": "30",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "502",
+            "movieId": 836,
+            "movieName": "毕业那年",
+            "releaseInfo": "2012-09-21"
+        },
+        {
+            "avgShowViewDesc": "5",
+            "avgViewBoxDesc": "45",
+            "boxDesc": "494",
+            "movieId": 341578,
+            "movieName": "那些女人",
+            "releaseInfo": "2018-09-03"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "485",
+            "movieId": 1197507,
+            "movieName": "吃货宇宙",
+            "releaseInfo": "2018-06-16"
+        },
+        {
+            "avgShowViewDesc": "7",
+            "avgViewBoxDesc": "25",
+            "boxDesc": "479",
+            "movieId": 1211570,
+            "movieName": "咕噜咕噜美人鱼2",
+            "releaseInfo": "2017-12-30"
+        },
+        {
+            "avgShowViewDesc": "10",
+            "avgViewBoxDesc": "36",
+            "boxDesc": "478",
+            "movieId": 1238696,
+            "movieName": "生活万岁",
+            "releaseInfo": "2018-11-27"
+        },
+        {
+            "avgShowViewDesc": "28",
+            "avgViewBoxDesc": "27",
+            "boxDesc": "477",
+            "movieId": 1229774,
+            "movieName": "李学生",
+            "releaseInfo": "2018-08-28"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "27",
+            "boxDesc": "456",
+            "movieId": 345000,
+            "movieName": "毕业作品",
+            "releaseInfo": "2018-04-13"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "36",
+            "boxDesc": "452",
+            "movieId": 1200245,
+            "movieName": "第三度嫌疑人",
+            "releaseInfo": "2018-03-30"
+        },
+        {
+            "avgShowViewDesc": "2",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "447",
+            "movieId": 1187437,
+            "movieName": "念念手纪",
+            "releaseInfo": "2018-09-14"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "438",
+            "movieId": 1198834,
+            "movieName": "给19岁的我自己",
+            "releaseInfo": "2018-05-29"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "39",
+            "boxDesc": "414",
+            "movieId": 1206089,
+            "movieName": "妈妈咪呀2",
+            "releaseInfo": "2018-08-03"
+        },
+        {
+            "avgShowViewDesc": "2",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "411",
+            "movieId": 1207577,
+            "movieName": "黑暗迷宫",
+            "releaseInfo": "2018-10-31"
+        },
+        {
+            "avgShowViewDesc": "2",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "402",
+            "movieId": 1212518,
+            "movieName": "西北风云",
+            "releaseInfo": "2018-04-13"
+        },
+        {
+            "avgShowViewDesc": "2",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "401",
+            "movieId": 246835,
+            "movieName": "寻找罗麦",
+            "releaseInfo": "2018-04-13"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "41",
+            "boxDesc": "399",
+            "movieId": 1215573,
+            "movieName": "暗夜良人",
+            "releaseInfo": "2018-06-06"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "397",
+            "movieId": 1218253,
+            "movieName": "阿里巴巴三根金发",
+            "releaseInfo": "2018-12-30"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "384",
+            "movieId": 337093,
+            "movieName": "龙在哪里？",
+            "releaseInfo": "2015-10-23"
+        },
+        {
+            "avgShowViewDesc": "7",
+            "avgViewBoxDesc": "27",
+            "boxDesc": "381",
+            "movieId": 672137,
+            "movieName": "嘻哈英熊",
+            "releaseInfo": "2018-10-04"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "363",
+            "movieId": 344323,
+            "movieName": "S4侠降魔记",
+            "releaseInfo": "2018-01-26"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "27",
+            "boxDesc": "362",
+            "movieId": 1238706,
+            "movieName": "你美丽了我的人生",
+            "releaseInfo": "2018-11-02"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "28",
+            "boxDesc": "359",
+            "movieId": 367845,
+            "movieName": "无敌原始人",
+            "releaseInfo": "2018-10-19"
+        },
+        {
+            "avgShowViewDesc": "41",
+            "avgViewBoxDesc": "43",
+            "boxDesc": "358",
+            "movieId": 338391,
+            "movieName": "湄公河行动",
+            "releaseInfo": "2016-09-30"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "27",
+            "boxDesc": "337",
+            "movieId": 1217141,
+            "movieName": "午夜幽灵",
+            "releaseInfo": "2018-10-12"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "335",
+            "movieId": 479074,
+            "movieName": "冷恋时代",
+            "releaseInfo": "2018-09-21"
+        },
+        {
+            "avgShowViewDesc": "9",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "334",
+            "movieId": 1229963,
+            "movieName": "警车联盟",
+            "releaseInfo": "2018-12-30"
+        },
+        {
+            "avgShowViewDesc": "9",
+            "avgViewBoxDesc": "35",
+            "boxDesc": "329",
+            "movieId": 1244914,
+            "movieName": "龟兔大作战",
+            "releaseInfo": "2018-12-30"
+        },
+        {
+            "avgShowViewDesc": "46",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "326",
+            "movieId": 1212248,
+            "movieName": "爱的帕斯卡",
+            "releaseInfo": "2018-03-30"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "27",
+            "boxDesc": "320",
+            "movieId": 1198455,
+            "movieName": "二十岁",
+            "releaseInfo": "2018-11-30"
+        },
+        {
+            "avgShowViewDesc": "2",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "311",
+            "movieId": 1199020,
+            "movieName": "跨越8年的新娘",
+            "releaseInfo": "2018-10-19"
+        },
+        {
+            "avgShowViewDesc": "23",
+            "avgViewBoxDesc": "27",
+            "boxDesc": "311",
+            "movieId": 1218718,
+            "movieName": "尖叫直播",
+            "releaseInfo": "2018-04-29"
+        },
+        {
+            "avgShowViewDesc": "22",
+            "avgViewBoxDesc": "49",
+            "boxDesc": "308",
+            "movieId": 1212840,
+            "movieName": "记忆折叠",
+            "releaseInfo": "2018-11-16"
+        },
+        {
+            "avgShowViewDesc": "8",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "300",
+            "movieId": 1229768,
+            "movieName": "两只小猪之勇闯神秘岛",
+            "releaseInfo": "2018-12-30"
+        },
+        {
+            "avgShowViewDesc": "5",
+            "avgViewBoxDesc": "26",
+            "boxDesc": "292",
+            "movieId": 1229950,
+            "movieName": "午夜整容室",
+            "releaseInfo": "2018-12-14"
+        },
+        {
+            "avgShowViewDesc": "50",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "283",
+            "movieId": 1209094,
+            "movieName": "我们的青春岁月",
+            "releaseInfo": "2018-05-04"
+        },
+        {
+            "avgShowViewDesc": "5",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "282",
+            "movieId": 1218298,
+            "movieName": "肆式青春",
+            "releaseInfo": "2018-08-04"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "282",
+            "movieId": 1207707,
+            "movieName": "爱猫之城",
+            "releaseInfo": "2018-09-22"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "27",
+            "boxDesc": "273",
+            "movieId": 1234049,
+            "movieName": "灵魂契约",
+            "releaseInfo": "2018-10-26"
+        },
+        {
+            "avgShowViewDesc": "6",
+            "avgViewBoxDesc": "26",
+            "boxDesc": "269",
+            "movieId": 1233373,
+            "movieName": "超时空大冒险",
+            "releaseInfo": "2018-12-01"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "261",
+            "movieId": 1200609,
+            "movieName": "大世界",
+            "releaseInfo": "2018-01-12"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "28",
+            "boxDesc": "259",
+            "movieId": 1196131,
+            "movieName": "神探狗笨吉",
+            "releaseInfo": "2018-12-28"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "36",
+            "boxDesc": "254",
+            "movieId": 1196215,
+            "movieName": "路过未来",
+            "releaseInfo": "2018-05-17"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "27",
+            "boxDesc": "253",
+            "movieId": 1220908,
+            "movieName": "恐怖浴室",
+            "releaseInfo": "2018-06-08"
+        },
+        {
+            "avgShowViewDesc": "2",
+            "avgViewBoxDesc": "29",
+            "boxDesc": "253",
+            "movieId": 1213191,
+            "movieName": "暹罗决：九神战甲",
+            "releaseInfo": "2018-06-29"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "31",
+            "boxDesc": "244",
+            "movieId": 1224643,
+            "movieName": "阿拉姜色",
+            "releaseInfo": "2018-10-26"
+        },
+        {
+            "avgShowViewDesc": "5",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "241",
+            "movieId": 346180,
+            "movieName": "青蛙总动员",
+            "releaseInfo": "2016-04-30"
+        },
+        {
+            "avgShowViewDesc": "11",
+            "avgViewBoxDesc": "34",
+            "boxDesc": "241",
+            "movieId": 337443,
+            "movieName": "至爱梵高·星空之谜",
+            "releaseInfo": "2017-12-08"
+        },
+        {
+            "avgShowViewDesc": "2",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "240",
+            "movieId": 1228750,
+            "movieName": "照相师",
+            "releaseInfo": "2018-12-12"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "27",
+            "boxDesc": "238",
+            "movieId": 1227737,
+            "movieName": "男生宿舍",
+            "releaseInfo": "2018-08-31"
+        },
+        {
+            "avgShowViewDesc": "2",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "238",
+            "movieId": 858598,
+            "movieName": "莫斯科陷落",
+            "releaseInfo": "2018-02-02"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "27",
+            "boxDesc": "235",
+            "movieId": 1210869,
+            "movieName": "午夜十二点",
+            "releaseInfo": "2018-04-28"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "26",
+            "boxDesc": "233",
+            "movieId": 341753,
+            "movieName": "三只小猪2",
+            "releaseInfo": "2017-05-27"
+        },
+        {
+            "avgShowViewDesc": "21",
+            "avgViewBoxDesc": "32",
+            "boxDesc": "232",
+            "movieId": 1211641,
+            "movieName": "美丽童年",
+            "releaseInfo": "2018-07-13"
+        },
+        {
+            "avgShowViewDesc": "2",
+            "avgViewBoxDesc": "30",
+            "boxDesc": "232",
+            "movieId": 1238758,
+            "movieName": "我的冤家是条狗",
+            "releaseInfo": "2018-11-09"
+        },
+        {
+            "avgShowViewDesc": "4",
+            "avgViewBoxDesc": "27",
+            "boxDesc": "231",
+            "movieId": 1238695,
+            "movieName": "瞳灵公馆",
+            "releaseInfo": "2018-11-02"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "28",
+            "boxDesc": "227",
+            "movieId": 1227002,
+            "movieName": "黑暗深处之惊魂夜",
+            "releaseInfo": "2018-10-19"
+        },
+        {
+            "avgShowViewDesc": "7",
+            "avgViewBoxDesc": "33",
+            "boxDesc": "226",
+            "movieId": 1207100,
+            "movieName": "米花之味",
+            "releaseInfo": "2018-04-20"
+        },
+        {
+            "avgShowViewDesc": "3",
+            "avgViewBoxDesc": "27",
+            "boxDesc": "226",
+            "movieId": 666793,
+            "movieName": "恐怖快递",
+            "releaseInfo": "2018-11-23"
+        }
+    ],
+    "majorTitle": "2018年电影票房总榜",
+    "minorTitle": "总票房606.98亿"
+}

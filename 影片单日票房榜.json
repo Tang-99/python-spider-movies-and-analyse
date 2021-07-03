@@ -1,0 +1,169 @@
+{
+    "data": {
+        "list": [
+            {
+                "boxDesc": "55271",
+                "movieId": 248172,
+                "movieName": "复仇者联盟4：终局之战",
+                "releaseDays": 4,
+                "releaseInfo": "2019-04-27",
+                "weekDayInfo": "周六"
+            },
+            {
+                "boxDesc": "54685",
+                "movieId": 346272,
+                "movieName": "捉妖记2",
+                "releaseDays": 1,
+                "releaseInfo": "2018-02-16",
+                "weekDayInfo": "周五"
+            },
+            {
+                "boxDesc": "53774",
+                "movieId": 248172,
+                "movieName": "复仇者联盟4：终局之战",
+                "releaseDays": 1,
+                "releaseInfo": "2019-04-24",
+                "weekDayInfo": "周三"
+            },
+            {
+                "boxDesc": "50254",
+                "movieId": 248172,
+                "movieName": "复仇者联盟4：终局之战",
+                "releaseDays": 8,
+                "releaseInfo": "2019-05-01",
+                "weekDayInfo": "周三"
+            },
+            {
+                "boxDesc": "49356",
+                "movieId": 248170,
+                "movieName": "复仇者联盟3：无限战争",
+                "releaseDays": 2,
+                "releaseInfo": "2018-05-12",
+                "weekDayInfo": "周六"
+            },
+            {
+                "boxDesc": "48750",
+                "movieId": 248700,
+                "movieName": "速度与激情8",
+                "releaseDays": 2,
+                "releaseInfo": "2017-04-15",
+                "weekDayInfo": "周六"
+            },
+            {
+                "boxDesc": "42657",
+                "movieId": 344264,
+                "movieName": "战狼2",
+                "releaseDays": 11,
+                "releaseInfo": "2017-08-06",
+                "weekDayInfo": "周日"
+            },
+            {
+                "boxDesc": "42511",
+                "movieId": 248172,
+                "movieName": "复仇者联盟4：终局之战",
+                "releaseDays": 3,
+                "releaseInfo": "2019-04-26",
+                "weekDayInfo": "周五"
+            },
+            {
+                "boxDesc": "41906",
+                "movieId": 248906,
+                "movieName": "流浪地球",
+                "releaseDays": 6,
+                "releaseInfo": "2019-02-10",
+                "weekDayInfo": "周日"
+            },
+            {
+                "boxDesc": "41881",
+                "movieId": 248906,
+                "movieName": "流浪地球",
+                "releaseDays": 5,
+                "releaseInfo": "2019-02-09",
+                "weekDayInfo": "周六"
+            },
+            {
+                "boxDesc": "41707",
+                "movieId": 248700,
+                "movieName": "速度与激情8",
+                "releaseDays": 1,
+                "releaseInfo": "2017-04-14",
+                "weekDayInfo": "周五"
+            },
+            {
+                "boxDesc": "41019",
+                "movieId": 344869,
+                "movieName": "疯狂的外星人",
+                "releaseDays": 1,
+                "releaseInfo": "2019-02-05",
+                "weekDayInfo": "周二"
+            },
+            {
+                "boxDesc": "40581",
+                "movieId": 344264,
+                "movieName": "战狼2",
+                "releaseDays": 10,
+                "releaseInfo": "2017-08-05",
+                "weekDayInfo": "周六"
+            },
+            {
+                "boxDesc": "38833",
+                "movieId": 1277939,
+                "movieName": "我和我的祖国",
+                "releaseDays": 2,
+                "releaseInfo": "2019-10-01",
+                "weekDayInfo": "周二"
+            },
+            {
+                "boxDesc": "38726",
+                "movieId": 248170,
+                "movieName": "复仇者联盟3：无限战争",
+                "releaseDays": 1,
+                "releaseInfo": "2018-05-11",
+                "weekDayInfo": "周五"
+            },
+            {
+                "boxDesc": "38655",
+                "movieId": 248906,
+                "movieName": "流浪地球",
+                "releaseDays": 4,
+                "releaseInfo": "2019-02-08",
+                "weekDayInfo": "周五"
+            },
+            {
+                "boxDesc": "38594",
+                "movieId": 1200486,
+                "movieName": "我不是药神",
+                "releaseDays": 4,
+                "releaseInfo": "2018-07-08",
+                "weekDayInfo": "周日"
+            },
+            {
+                "boxDesc": "38569",
+                "movieId": 1200486,
+                "movieName": "我不是药神",
+                "releaseDays": 3,
+                "releaseInfo": "2018-07-07",
+                "weekDayInfo": "周六"
+            },
+            {
+                "boxDesc": "38474",
+                "movieId": 248700,
+                "movieName": "速度与激情8",
+                "releaseDays": 3,
+                "releaseInfo": "2017-04-16",
+                "weekDayInfo": "周日"
+            },
+            {
+                "boxDesc": "37250",
+                "movieId": 346272,
+                "movieName": "捉妖记2",
+                "releaseDays": 2,
+                "releaseInfo": "2018-02-17",
+                "weekDayInfo": "周六"
+            }
+        ],
+        "majorTitle": "影片单日票房榜",
+        "minorTitle": "截至2021年02月08日"
+    },
+    "success": true
+}

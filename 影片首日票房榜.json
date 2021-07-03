@@ -1,0 +1,149 @@
+{
+    "data": {
+        "list": [
+            {
+                "boxDesc": "54685",
+                "movieId": 346272,
+                "movieName": "捉妖记2",
+                "releaseInfo": "2018-02-15",
+                "weekDayInfo": "周五"
+            },
+            {
+                "boxDesc": "53774",
+                "movieId": 248172,
+                "movieName": "复仇者联盟4：终局之战",
+                "releaseInfo": "2019-04-23",
+                "weekDayInfo": "周三"
+            },
+            {
+                "boxDesc": "41707",
+                "movieId": 248700,
+                "movieName": "速度与激情8",
+                "releaseInfo": "2017-04-13",
+                "weekDayInfo": "周五"
+            },
+            {
+                "boxDesc": "41019",
+                "movieId": 344869,
+                "movieName": "疯狂的外星人",
+                "releaseInfo": "2019-02-04",
+                "weekDayInfo": "周二"
+            },
+            {
+                "boxDesc": "38726",
+                "movieId": 248170,
+                "movieName": "复仇者联盟3：无限战争",
+                "releaseInfo": "2018-05-10",
+                "weekDayInfo": "周五"
+            },
+            {
+                "boxDesc": "36147",
+                "movieId": 1211269,
+                "movieName": "姜子牙",
+                "releaseInfo": "2020-09-30",
+                "weekDayInfo": "周四"
+            },
+            {
+                "boxDesc": "35448",
+                "movieId": 248904,
+                "movieName": "西游伏妖篇",
+                "releaseInfo": "2017-01-27",
+                "weekDayInfo": "周六"
+            },
+            {
+                "boxDesc": "34594",
+                "movieId": 78405,
+                "movieName": "速度与激情7",
+                "releaseInfo": "2015-04-11",
+                "weekDayInfo": "周日"
+            },
+            {
+                "boxDesc": "34076",
+                "movieId": 344990,
+                "movieName": "唐人街探案2",
+                "releaseInfo": "2018-02-15",
+                "weekDayInfo": "周五"
+            },
+            {
+                "boxDesc": "32194",
+                "movieId": 1218091,
+                "movieName": "飞驰人生",
+                "releaseInfo": "2019-02-04",
+                "weekDayInfo": "周二"
+            },
+            {
+                "boxDesc": "30349",
+                "movieId": 1175253,
+                "movieName": "爱情公寓",
+                "releaseInfo": "2018-08-09",
+                "weekDayInfo": "周五"
+            },
+            {
+                "boxDesc": "29024",
+                "movieId": 1277939,
+                "movieName": "我和我的祖国",
+                "releaseInfo": "2019-09-29",
+                "weekDayInfo": "周一"
+            },
+            {
+                "boxDesc": "28959",
+                "movieId": 248645,
+                "movieName": "变形金刚5：最后的骑士",
+                "releaseInfo": "2017-06-22",
+                "weekDayInfo": "周五"
+            },
+            {
+                "boxDesc": "28556",
+                "movieId": 343720,
+                "movieName": "后来的我们",
+                "releaseInfo": "2018-04-27",
+                "weekDayInfo": "周六"
+            },
+            {
+                "boxDesc": "27820",
+                "movieId": 489894,
+                "movieName": "我在时间尽头等你",
+                "releaseInfo": "2020-08-24",
+                "weekDayInfo": "周二"
+            },
+            {
+                "boxDesc": "27501",
+                "movieId": 1328712,
+                "movieName": "我和我的家乡",
+                "releaseInfo": "2020-09-30",
+                "weekDayInfo": "周四"
+            },
+            {
+                "boxDesc": "27389",
+                "movieId": 580298,
+                "movieName": "新喜剧之王",
+                "releaseInfo": "2019-02-04",
+                "weekDayInfo": "周二"
+            },
+            {
+                "boxDesc": "27172",
+                "movieId": 246063,
+                "movieName": "美人鱼",
+                "releaseInfo": "2016-02-07",
+                "weekDayInfo": "周一"
+            },
+            {
+                "boxDesc": "26277",
+                "movieId": 345036,
+                "movieName": "地球最后的夜晚",
+                "releaseInfo": "2018-12-30",
+                "weekDayInfo": "周一"
+            },
+            {
+                "boxDesc": "25098",
+                "movieId": 78421,
+                "movieName": "魔兽",
+                "releaseInfo": "2016-06-07",
+                "weekDayInfo": "周三"
+            }
+        ],
+        "majorTitle": "影片首日票房榜",
+        "minorTitle": "截至2021年02月08日"
+    },
+    "success": true
+}
